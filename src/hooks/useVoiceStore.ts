@@ -2,7 +2,7 @@ import { create } from "zustand";
 
 type VoiceStore = {
   selectedVoice: SpeechSynthesisVoice | null;
-  setSelectedVoice: (voice: SpeechSynthesisVoice) => void;
+  setSelectedVoice: (voice: SpeechSynthesisVoice | null) => void;
 };
 
 export const useVoiceStore = create<VoiceStore>((set) => ({

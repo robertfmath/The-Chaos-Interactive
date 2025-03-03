@@ -1,11 +1,11 @@
 import { describe, it, expect, beforeEach } from "vitest";
 import { render, screen } from "@testing-library/react";
-import PoemDataSkeleton from "../components/PoemDataSkeleton";
+import PoemDataSkeleton from "../../components/PoemDataSkeleton";
 
 describe("PoemDataSkeleton", () => {
-  beforeEach(() => { 
-    render(<PoemDataSkeleton/>)
-   })
+  beforeEach(() => {
+    render(<PoemDataSkeleton />);
+  });
 
   it("renders the skeleton container", () => {
     const skeletonContainer = screen.getByTestId("poem-data-skeleton");

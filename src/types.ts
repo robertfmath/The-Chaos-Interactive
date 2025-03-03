@@ -5,7 +5,7 @@ export type Word = {
   noSpace?: boolean;
   leadingPunctuation?: string;
   trailingPunctuation?: string;
-  linkText?: string;
+  linkTextOverride?: string;
   phonemicRespelling?: string;
   standaloneLetter?: boolean;
 };

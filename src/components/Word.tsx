@@ -36,6 +36,7 @@ const Word = ({ word }: WordProps) => {
           title={<WordTooltipContent word={word} />}
           arrow
           placement="top"
+          data-testid="word-tooltip"
           slotProps={{
             tooltip: {
               sx: {
@@ -55,6 +56,7 @@ const Word = ({ word }: WordProps) => {
         >
           <Typography
             component="span"
+            className={word.phonemicRespelling ? "has-phonemic-respelling" : ""}
             sx={{
               display: "inline-block",
               color: "primary.main",

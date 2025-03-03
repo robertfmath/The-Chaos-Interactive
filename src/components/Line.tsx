@@ -8,14 +8,14 @@ type LineProps = {
 
 const Line = ({ words }: LineProps) => {
   return (
-    <>
+    <Box data-testid="line">
       {words.map((word, index) => (
-        <Box sx={{ display: "inline" }} key={index} data-testid="line">
+        <Box sx={{ display: "inline" }} key={index}>
           <Word word={word} key={index} />
           {index < words.length - 1 && !word.noSpace && " "}
         </Box>
       ))}
-    </>
+    </Box>
   );
 };
 

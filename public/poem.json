@@ -315,7 +315,7 @@
           {
             "text": "sew it",
             "shouldPronounce": true,
-            "linkText": "sew"
+            "linkTextOverride": "sew"
           }
         ]
       },
@@ -3699,7 +3699,7 @@
             "text": "mani-(fold)",
             "shouldPronounce": true,
             "phoneticOverride": "manifold",
-            "linkText": "manifold"
+            "linkTextOverride": "manifold"
           },
           {
             "text": "like",
@@ -5478,7 +5478,7 @@
             "shouldPronounce": true,
             "trailingPronuncation": "-",
             "phoneticOverride": "forgettem",
-            "linkText": "forget"
+            "linkTextOverride": "forget"
           }
         ]
       },

@@ -26,6 +26,7 @@ const Inputs = () => {
         <FormControl fullWidth>
           <Box>
             <FormLabel
+              id="theme-toggle"
               sx={{
                 "&.Mui-focused": {
                   color: "text.primary",
@@ -35,7 +36,7 @@ const Inputs = () => {
               Theme
             </FormLabel>
             <RadioGroup
-              name="theme-toggle"
+              aria-labelledby="theme-toggle"
               row
               value={mode}
               onChange={(event) =>

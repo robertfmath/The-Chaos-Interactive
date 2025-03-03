@@ -70,17 +70,19 @@ const ApplicationInfo = () => {
           </ListItem>
           <ListItem sx={{ display: "list-item", pl: 1 }}>
             <Typography>
-              Some words could not be correctly pronounced, even with phonetic
-              tweaks. These words are underlined with a dotted red
-              line&mdash;hovering over them will display a phonemic respelling
-              from their Merriam-Webster dictionary entry.
+              Some words could not be correctly pronounced by the Google US
+              English voice, even with phonetic tweaks. These words are
+              underlined with a dotted red line &mdash; hovering over them will
+              display a phonemic respelling from their Merriam-Webster
+              dictionary entry.
             </Typography>
           </ListItem>
           <ListItem sx={{ display: "list-item", pl: 1 }}>
             <Typography>
               Some speakers, particularly Bluetooth speakers, may cut off the
               beginning of each word&apos;s pronunciation due to audio latency.
-              For the best experience, using headphones is recommended.
+              If this occurs, consider using an alternative audio source (such
+              as headphones).
             </Typography>
           </ListItem>
         </List>

@@ -15,7 +15,7 @@ const WordTooltipContent = ({ word }: WordTooltipContentProps) => {
         </Typography>
       )}
       <Link
-        href={`https://www.merriam-webster.com/dictionary/${encodeURIComponent(word.linkText ?? word.text)}`}
+        href={`https://www.merriam-webster.com/dictionary/${encodeURIComponent(word.linkTextOverride ?? word.text)}`}
         target="_blank"
         rel="noopener noreferrer"
       >
