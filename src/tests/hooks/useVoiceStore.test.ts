@@ -1,6 +1,6 @@
 import { describe, it, expect, beforeEach } from "vitest";
-import { useVoiceStore } from "../../hooks/useVoiceStore";
 import { act } from "@testing-library/react";
+import { useVoiceStore } from "../../hooks/useVoiceStore";
 
 describe("useVoiceStore", () => {
   beforeEach(() => {
@@ -75,7 +75,6 @@ describe("useVoiceStore", () => {
     const state1 = useVoiceStore.getState();
     expect(state1.selectedVoice).toBe(mockVoice);
 
-    // Update with the same voice
     act(() => {
       useVoiceStore.getState().setSelectedVoice(mockVoice);
     });

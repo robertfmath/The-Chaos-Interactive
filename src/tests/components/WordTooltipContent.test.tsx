@@ -1,5 +1,5 @@
+import { describe, expect, it } from "vitest";
 import { render, screen, within } from "@testing-library/react";
-import { describe, expect, test } from "vitest";
 import WordTooltipContent from "../../components/WordTooltipContent";
 import { Word } from "../../types";
 
@@ -11,12 +11,12 @@ describe("WordTooltipContent", () => {
     trailingPunctuation: '",',
   };
 
-  test("renders without crashing", () => {
+  it("renders without crashing", () => {
     render(<WordTooltipContent word={mockWord} />);
     expect(screen.getByTestId("word-tooltip-content")).toBeInTheDocument();
   });
 
-  test("renders dictionary link button with correct text and icon", () => {
+  it("renders dictionary link button with correct text and icon", () => {
     render(<WordTooltipContent word={mockWord} />);
 
     const viewInDictionaryButton = screen.getByRole("button", {
@@ -30,7 +30,7 @@ describe("WordTooltipContent", () => {
     expect(menuBookIcon).toBeInTheDocument();
   });
 
-  test("uses word.text for dictionary link when linkTextOverride is not provided", () => {
+  it("uses word.text for dictionary link when linkTextOverride is not provided", () => {
     render(<WordTooltipContent word={mockWord} />);
     const link = screen.getByRole("link");
     expect(link).toBeInTheDocument();
@@ -42,7 +42,7 @@ describe("WordTooltipContent", () => {
     expect(link).toHaveAttribute("rel", "noopener noreferrer");
   });
 
-  test("uses word.linkTextOverride for dictionary link when linkTextOverride is provided", () => {
+  it("uses word.linkTextOverride for dictionary link when linkTextOverride is provided", () => {
     render(
       <WordTooltipContent
         word={{ ...mockWord, linkTextOverride: "override" }}
@@ -56,7 +56,7 @@ describe("WordTooltipContent", () => {
     );
   });
 
-  test("properly encodes special characters in link URL", () => {
+  it("properly encodes special characters in link URL", () => {
     render(<WordTooltipContent word={{ ...mockWord, text: "test word" }} />);
     const link = screen.getByRole("link");
     expect(link).toBeInTheDocument();
@@ -66,7 +66,7 @@ describe("WordTooltipContent", () => {
     );
   });
 
-  test("renders phonemic respelling when provided", () => {
+  it("renders phonemic respelling when provided", () => {
     render(
       <WordTooltipContent
         word={{ ...mockWord, phonemicRespelling: "ˈtest" }}

@@ -1,6 +1,6 @@
+import { Box } from "@mui/material";
 import Word from "./Word";
 import type { Word as WordType } from "../types";
-import { Box } from "@mui/material";
 
 type LineProps = {
   words: WordType[];

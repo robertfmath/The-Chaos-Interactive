@@ -1,16 +1,14 @@
-import CssBaseline from "@mui/material/CssBaseline";
 import { useState, useEffect } from "react";
+import { Box, ThemeProvider, CssBaseline } from "@mui/material";
 import { Stanza as StanzaType } from "./types";
-import { Box } from "@mui/material";
 import Stanza from "./components/Stanza";
 import Navbar from "./components/Navbar";
 import Inputs from "./components/Inputs";
 import ApplicationInfo from "./components/ApplicationInfo";
 import PoemDataSkeleton from "./components/PoemDataSkeleton";
 import theme from "./theme";
-import { ThemeProvider } from "@mui/material";
 
-function App() {
+const App = () => {
   const [poemData, setPoemData] = useState<StanzaType[] | null>(null);
   const [loading, setLoading] = useState<boolean>(true);
 
@@ -78,6 +76,6 @@ function App() {
       </Box>
     </ThemeProvider>
   );
-}
+};
 
 export default App;

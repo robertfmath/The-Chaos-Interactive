@@ -1,7 +1,7 @@
 import { describe, it, expect, vi, beforeEach } from "vitest";
 import { render, screen, waitFor } from "@testing-library/react";
-import { Line as LineType } from "../types";
 import App from "../App";
+import { Line as LineType } from "../types";
 
 vi.mock("../components/Navbar", () => ({
   default: () => <div data-testid="mock-navbar">Navbar</div>,

@@ -7,9 +7,9 @@ describe("Navbar", () => {
     render(<Navbar />);
   });
 
-  it("renders the component", () => {
-    const appBar = screen.getByRole("banner");
-    expect(appBar).toBeInTheDocument();
+  it("renders without crashing", () => {
+    const navBar = screen.getByRole("banner");
+    expect(navBar).toBeInTheDocument();
   });
 
   it("renders the title", () => {
