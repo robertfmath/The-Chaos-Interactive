@@ -10,7 +10,8 @@
     "lint": "eslint . --fix",
     "preview": "vite preview --port 8080",
     "test": "vitest",
-    "test:coverage": "vitest --coverage --ui"
+    "test:coverage": "vitest --coverage --ui",
+    "format-and-lint": "npx prettier --write . && eslint . --fix"
   },
   "dependencies": {
     "@emotion/react": "^11.14.0",

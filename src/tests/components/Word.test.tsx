@@ -1,8 +1,8 @@
 import { describe, it, expect, vi, beforeEach } from "vitest";
 import { render, screen, fireEvent } from "@testing-library/react";
+import { ThemeProvider } from "@mui/material";
 import Word from "../../components/Word";
 import { Word as WordType } from "../../types";
-import { ThemeProvider } from "@mui/material";
 import theme from "../../theme";
 
 vi.mock("../../hooks/useVoiceStore", () => ({
@@ -44,7 +44,7 @@ describe("Word", () => {
     vi.clearAllMocks();
   });
 
-  it("renders basic word", () => {
+  it("renders without crashing", () => {
     renderWord({ text: "test", shouldPronounce: false });
     expect(screen.getByText("test")).toBeInTheDocument();
   });

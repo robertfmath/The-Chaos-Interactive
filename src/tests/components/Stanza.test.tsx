@@ -43,7 +43,7 @@ describe("Stanza", () => {
     },
   ];
 
-  it("renders", () => {
+  it("renders without crashing", () => {
     render(<Stanza lines={mockLines} />);
     expect(screen.getByTestId("stanza")).toBeInTheDocument();
   });

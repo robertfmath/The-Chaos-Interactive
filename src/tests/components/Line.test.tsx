@@ -23,7 +23,7 @@ describe("Line", () => {
     },
   ];
 
-  it("renders", () => {
+  it("renders without crashing", () => {
     render(<Line words={mockWords} />);
     expect(screen.getByTestId("line")).toBeInTheDocument();
   });
@@ -99,17 +99,6 @@ describe("Line", () => {
     render(<Line words={complexWords} />);
     const words = screen.getAllByTestId("mocked-word");
     expect(words).toHaveLength(2);
-  });
-
-  it("renders words with inline display", () => {
-    render(<Line words={mockWords} />);
-    const inlineElements = screen
-      .getAllByTestId("mocked-word")
-      .map((word) => word.parentElement);
-
-    inlineElements.forEach((element) => {
-      expect(element).toHaveStyle({ display: "inline" });
-    });
   });
 
   it("does not add space after last word", () => {

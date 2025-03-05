@@ -6,6 +6,7 @@ describe("ApplicationInfo", () => {
   beforeEach(() => {
     render(<ApplicationInfo />);
   });
+
   it("renders without crashing", () => {
     expect(screen.getByTestId("application-info")).toBeInTheDocument();
   });

@@ -7,7 +7,7 @@ describe("PoemDataSkeleton", () => {
     render(<PoemDataSkeleton />);
   });
 
-  it("renders the skeleton container", () => {
+  it("renders without crashing", () => {
     const skeletonContainer = screen.getByTestId("poem-data-skeleton");
     expect(skeletonContainer).toBeInTheDocument();
   });

@@ -1,7 +1,7 @@
 import { describe, it, expect, beforeEach, vi } from "vitest";
 import { fireEvent, render, screen } from "@testing-library/react";
-import Inputs from "../../components/Inputs";
 import { ThemeProvider } from "@mui/material";
+import Inputs from "../../components/Inputs";
 import theme from "../../theme";
 
 vi.mock("../../components/VoiceSelect", () => ({

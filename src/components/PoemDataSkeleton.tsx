@@ -1,7 +1,7 @@
 import { Box, Skeleton } from "@mui/material";
 
 const PoemDataSkeleton = () => {
-  const lineWidths = [
+  const lineWidthsPixels = [
     202, 229, 194, 320, 190, 272, 240, 232, 220, 261, 263, 206, 259, 235, 237,
     238, 229, 264, 217, 313,
   ];
@@ -13,7 +13,7 @@ const PoemDataSkeleton = () => {
             <Box key={innerIndex} sx={{ py: "0.5rem", width: "429px" }}>
               <Skeleton
                 height={24}
-                width={`${(lineWidths[outerIndex * 4 + innerIndex] / 429) * 100}%`}
+                width={`${(lineWidthsPixels[outerIndex * 4 + innerIndex] / 429) * 100}%`}
                 sx={{
                   ml: innerIndex === 2 || innerIndex === 3 ? "2em" : undefined,
                 }}

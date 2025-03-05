@@ -1,7 +1,7 @@
-import { Word as WordType } from "../types";
 import { Box, Tooltip, Typography } from "@mui/material";
 import WordTooltipContent from "./WordTooltipContent";
 import { useVoiceStore } from "../hooks/useVoiceStore";
+import { Word as WordType } from "../types";
 
 type WordProps = {
   word: WordType;
