@@ -72,7 +72,7 @@ const ApplicationInfo = () => {
             <Typography>
               Some words could not be correctly pronounced by the Google US
               English voice, even with phonetic tweaks. These words are
-              underlined with a dotted red line &mdash; hovering over them will
+              underlined with a dotted red line; hovering over them will
               display a phonemic respelling from their Merriam-Webster
               dictionary entry.
             </Typography>
