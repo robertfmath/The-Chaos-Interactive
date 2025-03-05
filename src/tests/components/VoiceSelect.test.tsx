@@ -1,12 +1,13 @@
 import { describe, it, expect, vi, beforeEach } from "vitest";
-import { render, screen, fireEvent } from "@testing-library/react";
+import { render, screen } from "@testing-library/react";
+import userEvent from "@testing-library/user-event";
 import VoiceSelect from "../../components/VoiceSelect";
 import { useVoiceStore } from "../../hooks/useVoiceStore";
 
 const mockGetVoices = vi.fn();
 const mockSpeechSynthesis = {
   getVoices: mockGetVoices,
-  onvoiceschanged: null as ((this: SpeechSynthesis, ev: Event) => void) | null,
+  onvoiceschanged: null as unknown as () => void | null,
 };
 
 const mockGoogleVoice = {
@@ -19,7 +20,7 @@ const mockOtherVoice = {
   lang: "en-GB",
 } as SpeechSynthesisVoice;
 
-describe.skip("VoiceSelect", () => {
+describe("VoiceSelect", () => {
   beforeEach(() => {
     vi.clearAllMocks();
 
@@ -37,13 +38,14 @@ describe.skip("VoiceSelect", () => {
     expect(screen.getByTestId("voice-select-container")).toBeInTheDocument();
   });
 
-  it('displays "No voices available" when no voices are present', () => {
+  it('displays "No voices available" when no voices are present', async () => {
+    const user = userEvent.setup();
     mockGetVoices.mockReturnValue([]);
 
     render(<VoiceSelect />);
 
     const selectElement = screen.getByLabelText("Voice");
-    fireEvent.mouseDown(selectElement);
+    await user.click(selectElement);
 
     expect(screen.getByText("No voices available")).toBeInTheDocument();
   });
@@ -60,64 +62,57 @@ describe.skip("VoiceSelect", () => {
     mockGetVoices.mockReturnValue([mockOtherVoice]);
     render(<VoiceSelect />);
 
-    expect(screen.getByTestId("voice-warning")).toBeInTheDocument();
     expect(useVoiceStore.getState().selectedVoice).toBe(mockOtherVoice);
+
+    expect(screen.getByTestId("voice-warning")).toBeInTheDocument();
+    expect(
+      screen.getByText(/Your browser does not support/),
+    ).toBeInTheDocument();
   });
 
-  it("shows warning when switching from Google voice to another voice", () => {
+  it("shows warning when switching from Google voice to another voice", async () => {
+    const user = userEvent.setup();
     mockGetVoices.mockReturnValue([mockGoogleVoice, mockOtherVoice]);
     render(<VoiceSelect />);
 
     expect(screen.queryByTestId("voice-warning")).not.toBeInTheDocument();
 
     const select = screen.getByLabelText("Voice");
-    fireEvent.change(select, { target: { value: mockOtherVoice.name } });
+    await user.click(select);
 
+    const otherVoice = screen.getByRole("option", { name: "Other Voice" });
+    await user.click(otherVoice);
     expect(screen.getByTestId("voice-warning")).toBeInTheDocument();
+    expect(screen.getByText(/You are no longer using/)).toBeInTheDocument();
   });
 
-  it("populates select with available voices", () => {
+  it("handles voice change correctly", async () => {
+    const user = userEvent.setup();
+    mockGetVoices.mockReturnValue([mockGoogleVoice, mockOtherVoice]);
+    render(<VoiceSelect />);
+
+    const select = screen.getByLabelText("Voice");
+    await user.click(select);
+
+    const otherVoice = screen.getByRole("option", { name: "Other Voice" });
+    await user.click(otherVoice);
+    expect(useVoiceStore.getState().selectedVoice).toBe(mockOtherVoice);
+  });
+
+  it("populates select with available voices", async () => {
+    const user = userEvent.setup();
     const voices = [mockGoogleVoice, mockOtherVoice];
     mockGetVoices.mockReturnValue(voices);
-    render(<VoiceSelect />);
 
-    voices.forEach((voice) => {
-      expect(screen.getByText(voice.name)).toBeInTheDocument();
-    });
-  });
-
-  it("handles voice change correctly", () => {
-    mockGetVoices.mockReturnValue([mockGoogleVoice, mockOtherVoice]);
     render(<VoiceSelect />);
 
     const select = screen.getByLabelText("Voice");
-    fireEvent.change(select, { target: { value: mockOtherVoice.name } });
+    await user.click(select);
 
-    expect(useVoiceStore.getState().selectedVoice).toBe(mockOtherVoice);
+    voices.forEach((voice) => {
+      expect(
+        screen.getByRole("option", { name: voice.name }),
+      ).toBeInTheDocument();
+    });
   });
-
-  it("recognizes alternative Google US English voice names", () => {
-    const alternativeGoogleVoice = {
-      name: "en-US-Standard-C",
-      lang: "en-US",
-    } as SpeechSynthesisVoice;
-
-    mockGetVoices.mockReturnValue([alternativeGoogleVoice, mockOtherVoice]);
-    render(<VoiceSelect />);
-
-    expect(useVoiceStore.getState().selectedVoice).toBe(alternativeGoogleVoice);
-    expect(screen.queryByTestId("voice-warning")).not.toBeInTheDocument();
-  });
-
-  //   it("handles onvoiceschanged event", () => {
-  //     mockGetVoices.mockReturnValue([]);
-  //     render(<VoiceSelect />);
-
-  //     mockGetVoices.mockReturnValue([mockGoogleVoice]);
-  //     if (mockSpeechSynthesis.onvoiceschanged) {
-  //       mockSpeechSynthesis.onvoiceschanged(new Event("voiceschanged"));
-  //     }
-
-  //     expect(mockGetVoices).toHaveBeenCalledTimes(2);
-  //   });
 });

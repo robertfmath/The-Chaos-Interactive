@@ -17,13 +17,21 @@ vi.mock("../../components/WordTooltipContent", () => ({
   ),
 }));
 
+Object.defineProperty(window, "SpeechSynthesisUtterance", {
+  value: vi.fn().mockImplementation((text: string) => ({
+    text,
+    voice: null,
+  })),
+  writable: true,
+});
+
 const mockSpeak = vi.fn();
 Object.defineProperty(window, "speechSynthesis", {
   value: { speak: mockSpeak },
   writable: true,
 });
 
-describe.skip("Word", () => {
+describe("Word", () => {
   const renderWord = (wordProps: WordType) => {
     render(
       <ThemeProvider theme={theme}>
@@ -85,6 +93,16 @@ describe.skip("Word", () => {
   it("does not apply phonemic respelling class when not provided", () => {
     renderWord({ text: "test", shouldPronounce: true });
     expect(screen.getByText("test")).not.toHaveClass("has-phonemic-respelling");
+  });
+
+  it("applies standalone letter class when a pronunciation word is a standalone letter", () => {
+    renderWord({ text: "z", shouldPronounce: true, standaloneLetter: true });
+    expect(screen.getByText("z")).toHaveClass("is-standalone-letter");
+  });
+
+  it("applies standalone letter class when a non-pronunciation word is a standalone letter", () => {
+    renderWord({ text: "z", shouldPronounce: false, standaloneLetter: true });
+    expect(screen.getByText("z")).toHaveClass("is-standalone-letter");
   });
 
   describe("Punctuation", () => {

@@ -1,5 +1,5 @@
 import { Word as WordType } from "../types";
-import { Box, Tooltip, Typography, useTheme } from "@mui/material";
+import { Box, Tooltip, Typography } from "@mui/material";
 import WordTooltipContent from "./WordTooltipContent";
 import { useVoiceStore } from "../hooks/useVoiceStore";
 
@@ -8,7 +8,6 @@ type WordProps = {
 };
 
 const Word = ({ word }: WordProps) => {
-  const theme = useTheme();
   const { selectedVoice } = useVoiceStore();
   const synth = window.speechSynthesis;
 
@@ -39,24 +38,41 @@ const Word = ({ word }: WordProps) => {
           data-testid="word-tooltip"
           slotProps={{
             tooltip: {
-              sx: {
-                backgroundColor:
-                  theme.palette.mode === "light" ? "grey.300" : "grey.800",
-              },
+              sx: [
+                (theme) =>
+                  theme.applyStyles("light", {
+                    backgroundColor: "grey.300",
+                  }),
+                (theme) =>
+                  theme.applyStyles("dark", {
+                    backgroundColor: "grey.800",
+                  }),
+              ],
             },
             popper: {
-              sx: {
-                "& .MuiTooltip-arrow": {
-                  color:
-                    theme.palette.mode === "light" ? "grey.300" : "grey.800",
-                },
-              },
+              sx: [
+                (theme) =>
+                  theme.applyStyles("light", {
+                    "& .MuiTooltip-arrow": {
+                      color: "grey.300",
+                    },
+                  }),
+                (theme) =>
+                  theme.applyStyles("dark", {
+                    "& .MuiTooltip-arrow": {
+                      color: "grey.800",
+                    },
+                  }),
+              ],
             },
           }}
         >
           <Typography
             component="span"
-            className={word.phonemicRespelling ? "has-phonemic-respelling" : ""}
+            className={`
+              ${word.phonemicRespelling ? "has-phonemic-respelling" : ""}
+              ${word.standaloneLetter ? "is-standalone-letter" : ""}
+            `.trim()}
             sx={{
               display: "inline-block",
               color: "primary.main",
@@ -79,8 +95,9 @@ const Word = ({ word }: WordProps) => {
       ) : (
         <Typography
           component="span"
+          className={word.standaloneLetter ? "is-standalone-letter" : ""}
           sx={{
-            display: "inline",
+            display: "inline-block",
             fontStyle: word.standaloneLetter ? "italic" : undefined,
           }}
           onClick={onWordClick}

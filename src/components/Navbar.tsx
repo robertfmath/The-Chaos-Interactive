@@ -3,6 +3,7 @@ import { alpha } from "@mui/material/styles";
 import GitHubIcon from "@mui/icons-material/GitHub";
 
 const Navbar = () => {
+  console.log(window.innerWidth);
   return (
     <AppBar
       position="sticky"

@@ -36,10 +36,7 @@ const VoiceSelect = () => {
 
       if (!selectedVoice && availableVoices.length > 0) {
         const googleUsEnglishVoice = availableVoices.find(
-          (voice) =>
-            voice.name === "Google US English" ||
-            voice.name === "en-US-Standard-C" ||
-            (voice.name.includes("Google") && voice.lang === "en-US"),
+          (voice) => voice.name === "Google US English",
         );
 
         if (!googleUsEnglishVoice) {
@@ -70,10 +67,7 @@ const VoiceSelect = () => {
     );
     if (newVoice) {
       setSelectedVoice(newVoice);
-      const isNewVoiceGoogleUsEnglish =
-        newVoice.name === "Google US English" ||
-        newVoice.name === "en-US-Standard-C" ||
-        (newVoice.name.includes("Google") && newVoice.lang === "en-US");
+      const isNewVoiceGoogleUsEnglish = newVoice.name === "Google US English";
 
       if (!isNewVoiceGoogleUsEnglish) {
         setVoiceWarning(notUsingGoogleUsEnglishVoiceWarningMessage);

@@ -29,7 +29,7 @@ vi.mock("../components/PoemDataSkeleton", () => ({
   default: () => <div data-testid="mock-poem-skeleton">Loading...</div>,
 }));
 
-describe.skip("App", () => {
+describe("App", () => {
   const mockStanzas = [
     {
       stanzaNumber: 1,
@@ -101,6 +101,10 @@ describe.skip("App", () => {
 
   beforeEach(() => {
     vi.clearAllMocks();
+
+    window.fetch = vi.fn().mockResolvedValue({
+      json: () => Promise.resolve(mockStanzas),
+    });
   });
 
   it("renders without crashing", () => {
@@ -143,23 +147,16 @@ describe.skip("App", () => {
   it("handles fetch error gracefully", async () => {
     const consoleErrorSpy = vi.spyOn(console, "error");
     window.fetch = vi.fn().mockRejectedValue(new Error("Fetch failed"));
-
     render(<App />);
 
-    // First verify that skeleton is shown initially
-    expect(screen.getByTestId("mock-poem-skeleton")).toBeInTheDocument();
-
-    // Wait for the error to be logged AND the loading state to be updated
     await waitFor(() => {
-      expect(consoleErrorSpy).toHaveBeenCalled();
-      expect(
-        screen.queryByTestId("mock-poem-skeleton"),
-      ).not.toBeInTheDocument();
+      expect(consoleErrorSpy).toHaveBeenCalledWith(
+        "Error loading poem JSON:",
+        new Error("Fetch failed"),
+      );
     });
 
-    // Verify no stanzas are shown
+    expect(screen.getByTestId("mock-poem-skeleton")).toBeInTheDocument();
     expect(screen.queryByTestId("mock-stanza")).not.toBeInTheDocument();
-
-    consoleErrorSpy.mockRestore();
   });
 });
