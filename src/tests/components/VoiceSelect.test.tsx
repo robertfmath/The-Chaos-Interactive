@@ -66,7 +66,7 @@ describe("VoiceSelect", () => {
 
     expect(screen.getByTestId("voice-warning")).toBeInTheDocument();
     expect(
-      screen.getByText(/Your browser does not support/),
+      screen.getByText(/your browser does not support/),
     ).toBeInTheDocument();
   });
 
