@@ -1,4 +1,3 @@
-import { useState, useEffect } from "react";
 import {
   SelectChangeEvent,
   FormControl,
@@ -8,6 +7,7 @@ import {
   Alert,
   Box,
 } from "@mui/material";
+import { useState, useEffect } from "react";
 import { useVoiceStore } from "../hooks/useVoiceStore";
 
 const VoiceSelect = () => {
@@ -18,13 +18,14 @@ const VoiceSelect = () => {
   const [voiceWarning, setVoiceWarning] = useState<string | null>(null);
 
   const noGoogleUsEnglishVoiceWarningMessage = `
-  Your browser does not support the Google US English voice. 
-  As a result, pronunciations in this application may be inaccurate compared to the dialect of your selected voice.
+  This application was validated with the Google US English voice, which your browser 
+  does not support. Pronunciations may or may not be accurate in the dialect of the voice 
+  that is selected.
   `;
 
   const notUsingGoogleUsEnglishVoiceWarningMessage = `
-  You are no longer using the Google US English voice. The pronunciations in this application 
-      may now be inaccurate relative to the dialect of the voice you have chosen.
+  You are no longer using the Google US English voice. Pronunciations may or may not 
+  be accurate in the dialect of the voice you have selected.
   `;
 
   useEffect(() => {
