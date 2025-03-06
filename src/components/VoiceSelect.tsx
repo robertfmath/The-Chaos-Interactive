@@ -30,10 +30,14 @@ const VoiceSelect = () => {
 
   useEffect(() => {
     const synth = window.speechSynthesis;
-
     const loadVoices = () => {
       const availableVoices = synth.getVoices();
-      setVoiceOptions(availableVoices);
+      
+      const uniqueVoices = availableVoices.filter((voice, index, self) => 
+        index === self.findIndex((v) => v.name === voice.name)
+      );
+
+      setVoiceOptions(uniqueVoices);
 
       if (!selectedVoice && availableVoices.length > 0) {
         const googleUsEnglishVoice = availableVoices.find(

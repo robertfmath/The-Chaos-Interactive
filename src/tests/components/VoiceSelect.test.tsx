@@ -115,4 +115,31 @@ describe("VoiceSelect", () => {
       ).toBeInTheDocument();
     });
   });
+
+  it("deduplicates voices with the same name", async () => {
+    const user = userEvent.setup();
+    const duplicateVoice = {
+      name: "Other Voice",
+      lang: "en-US",
+    } as SpeechSynthesisVoice;
+    
+    const voices = [
+      mockGoogleVoice, 
+      mockOtherVoice,
+      duplicateVoice  // Same name as mockOtherVoice
+    ];
+    
+    mockGetVoices.mockReturnValue(voices);
+  
+    render(<VoiceSelect />);
+  
+    const select = screen.getByLabelText("Voice");
+    await user.click(select);
+  
+    const otherVoiceOptions = screen.getAllByRole("option", { name: "Other Voice" });
+    expect(otherVoiceOptions).toHaveLength(1);
+  
+    const allOptions = screen.getAllByRole("option");
+    expect(allOptions).toHaveLength(2);
+  });
 });
