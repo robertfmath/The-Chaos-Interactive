@@ -32,17 +32,26 @@ const VoiceSelect = () => {
     const synth = window.speechSynthesis;
     const loadVoices = () => {
       const availableVoices = synth.getVoices();
-      
+
       const uniqueVoices = availableVoices.filter((voice, index, self) => 
         index === self.findIndex((v) => v.name === voice.name)
       );
 
       setVoiceOptions(uniqueVoices);
 
-      if (!selectedVoice && availableVoices.length > 0) {
-        const googleUsEnglishVoice = availableVoices.find(
+      if (!selectedVoice && uniqueVoices.length > 0) {
+        const googleUsEnglishVoice = uniqueVoices.find(
           (voice) => voice.name === "Google US English",
         );
+
+        const iosPreferredVoice = uniqueVoices.find(
+          (voice) => voice.name === "Karen",
+        );
+
+        const androidPreferredVoice = uniqueVoices.find(
+          (voice) => voice.name === "Google US English 1 (Natural)",
+        );
+        
 
         if (!googleUsEnglishVoice) {
           setVoiceWarning(noGoogleUsEnglishVoiceWarningMessage);
@@ -50,7 +59,7 @@ const VoiceSelect = () => {
 
         setIsUsingGoogleUsEnglishVoice(googleUsEnglishVoice !== undefined);
 
-        setSelectedVoice(googleUsEnglishVoice ?? availableVoices[0]);
+        setSelectedVoice(googleUsEnglishVoice ?? iosPreferredVoices ?? androidPreferredVocies ?? uniqueVoices[0]);
       }
     };
 
