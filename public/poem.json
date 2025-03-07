@@ -5586,7 +5586,8 @@
           {
             "text": "see it",
             "shouldPronounce": true,
-            "trailingPunctuation": ";"
+            "trailingPunctuation": ";",
+            "linkTextOverride": "see"
           }
         ]
       },
