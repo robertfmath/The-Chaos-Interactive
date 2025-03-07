@@ -5327,7 +5327,8 @@
           },
           {
             "text": "trouble you",
-            "shouldPronounce": true
+            "shouldPronounce": true,
+            "linkTextOverride": "trouble"
           }
         ]
       },
