@@ -10,13 +10,29 @@ const mockSpeechSynthesis = {
   onvoiceschanged: null as unknown as () => void | null,
 };
 
-const mockGoogleVoice = {
+const mockGoogleUSEnglishVoice = {
   name: "Google US English",
   lang: "en-US",
 } as SpeechSynthesisVoice;
 
+const mockiOSVoice = {
+  name: "Samantha",
+  lang: "en-US",
+} as SpeechSynthesisVoice;
+
+const mockDefaultVoice = {
+  name: "Default Voice",
+  lang: "en-US",
+  default: true,
+} as SpeechSynthesisVoice;
+
 const mockOtherVoice = {
   name: "Other Voice",
+  lang: "en-GB",
+} as SpeechSynthesisVoice;
+
+const mockSecondOtherVoice = {
+  name: "Second Other Voice",
   lang: "en-GB",
 } as SpeechSynthesisVoice;
 
@@ -51,11 +67,52 @@ describe("VoiceSelect", () => {
   });
 
   it("automatically selects Google US English voice when available", () => {
-    mockGetVoices.mockReturnValue([mockGoogleVoice, mockOtherVoice]);
+    mockGetVoices.mockReturnValue([
+      mockOtherVoice,
+      mockSecondOtherVoice,
+      mockiOSVoice,
+      mockGoogleUSEnglishVoice,
+      mockDefaultVoice,
+    ]);
     render(<VoiceSelect />);
 
-    expect(useVoiceStore.getState().selectedVoice).toBe(mockGoogleVoice);
+    expect(useVoiceStore.getState().selectedVoice).toBe(
+      mockGoogleUSEnglishVoice,
+    );
     expect(screen.queryByTestId("voice-warning")).not.toBeInTheDocument();
+  });
+
+  it("selects iOS voice (Samantha) when available and Google US English is not", () => {
+    mockGetVoices.mockReturnValue([
+      mockSecondOtherVoice,
+      mockOtherVoice,
+      mockDefaultVoice,
+      mockiOSVoice,
+    ]);
+    render(<VoiceSelect />);
+
+    expect(useVoiceStore.getState().selectedVoice).toBe(mockiOSVoice);
+    expect(screen.queryByTestId("voice-warning")).toBeInTheDocument();
+  });
+
+  it("selects default voice when available and Google US English and Samantha are not", () => {
+    mockGetVoices.mockReturnValue([
+      mockOtherVoice,
+      mockDefaultVoice,
+      mockSecondOtherVoice,
+    ]);
+    render(<VoiceSelect />);
+
+    expect(useVoiceStore.getState().selectedVoice).toBe(mockDefaultVoice);
+    expect(screen.queryByTestId("voice-warning")).toBeInTheDocument();
+  });
+
+  it("selects first voice in list if Google US English, iOS voice, and default voice are not available", () => {
+    mockGetVoices.mockReturnValue([mockOtherVoice, mockSecondOtherVoice]);
+    render(<VoiceSelect />);
+
+    expect(useVoiceStore.getState().selectedVoice).toBe(mockOtherVoice);
+    expect(screen.queryByTestId("voice-warning")).toBeInTheDocument();
   });
 
   it("shows warning when Google US English voice is not available", () => {
@@ -65,14 +122,12 @@ describe("VoiceSelect", () => {
     expect(useVoiceStore.getState().selectedVoice).toBe(mockOtherVoice);
 
     expect(screen.getByTestId("voice-warning")).toBeInTheDocument();
-    expect(
-      screen.getByText(/your browser does not support/),
-    ).toBeInTheDocument();
+    expect(screen.getByText(/browser does not support/)).toBeInTheDocument();
   });
 
   it("shows warning when switching from Google voice to another voice", async () => {
     const user = userEvent.setup();
-    mockGetVoices.mockReturnValue([mockGoogleVoice, mockOtherVoice]);
+    mockGetVoices.mockReturnValue([mockGoogleUSEnglishVoice, mockOtherVoice]);
     render(<VoiceSelect />);
 
     expect(screen.queryByTestId("voice-warning")).not.toBeInTheDocument();
@@ -88,7 +143,7 @@ describe("VoiceSelect", () => {
 
   it("handles voice change correctly", async () => {
     const user = userEvent.setup();
-    mockGetVoices.mockReturnValue([mockGoogleVoice, mockOtherVoice]);
+    mockGetVoices.mockReturnValue([mockGoogleUSEnglishVoice, mockOtherVoice]);
     render(<VoiceSelect />);
 
     const select = screen.getByLabelText("Voice");
@@ -101,7 +156,7 @@ describe("VoiceSelect", () => {
 
   it("populates select with available voices", async () => {
     const user = userEvent.setup();
-    const voices = [mockGoogleVoice, mockOtherVoice];
+    const voices = [mockGoogleUSEnglishVoice, mockOtherVoice];
     mockGetVoices.mockReturnValue(voices);
 
     render(<VoiceSelect />);
@@ -119,27 +174,38 @@ describe("VoiceSelect", () => {
   it("deduplicates voices with the same name", async () => {
     const user = userEvent.setup();
     const duplicateVoice = {
-      name: "Other Voice",
-      lang: "en-US",
+      name: "Other Voice", // Same name as mockOtherVoice
+      lang: "en-ZA",
     } as SpeechSynthesisVoice;
-    
-    const voices = [
-      mockGoogleVoice, 
+
+    mockGetVoices.mockReturnValue([
+      mockGoogleUSEnglishVoice,
       mockOtherVoice,
-      duplicateVoice  // Same name as mockOtherVoice
-    ];
-    
-    mockGetVoices.mockReturnValue(voices);
-  
+      duplicateVoice,
+    ]);
+
     render(<VoiceSelect />);
-  
+
     const select = screen.getByLabelText("Voice");
     await user.click(select);
-  
-    const otherVoiceOptions = screen.getAllByRole("option", { name: "Other Voice" });
+
+    const otherVoiceOptions = screen.getAllByRole("option", {
+      name: "Other Voice",
+    });
     expect(otherVoiceOptions).toHaveLength(1);
-  
+
     const allOptions = screen.getAllByRole("option");
     expect(allOptions).toHaveLength(2);
+  });
+
+  it("does not refetch voices when a voice is already selected", () => {
+    mockGetVoices.mockReturnValue([mockGoogleUSEnglishVoice, mockOtherVoice]);
+    const { rerender } = render(<VoiceSelect />);
+
+    mockGetVoices.mockClear();
+
+    rerender(<VoiceSelect />);
+
+    expect(mockGetVoices).not.toHaveBeenCalled();
   });
 });

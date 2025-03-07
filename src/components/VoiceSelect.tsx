@@ -18,9 +18,9 @@ const VoiceSelect = () => {
   const [voiceWarning, setVoiceWarning] = useState<string | null>(null);
 
   const noGoogleUsEnglishVoiceWarningMessage = `
-  This application was validated with the Google US English voice, which your browser 
-  does not support. Pronunciations may or may not be accurate in the dialect of the voice 
-  that is selected.
+  This application was validated with the Google US English voice, which your operating
+  system and/or browser does not support. Pronunciations may or may not be accurate in 
+  the dialect of the voice that is selected.
   `;
 
   const notUsingGoogleUsEnglishVoiceWarningMessage = `
@@ -29,12 +29,15 @@ const VoiceSelect = () => {
   `;
 
   useEffect(() => {
+    if (selectedVoice) return;
+
     const synth = window.speechSynthesis;
     const loadVoices = () => {
       const availableVoices = synth.getVoices();
 
-      const uniqueVoices = availableVoices.filter((voice, index, self) => 
-        index === self.findIndex((v) => v.name === voice.name)
+      const uniqueVoices = availableVoices.filter(
+        (voice, index, self) =>
+          index === self.findIndex((v) => v.name === voice.name),
       );
 
       setVoiceOptions(uniqueVoices);
@@ -45,13 +48,10 @@ const VoiceSelect = () => {
         );
 
         const iosPreferredVoice = uniqueVoices.find(
-          (voice) => voice.name === "Karen",
+          (voice) => voice.name === "Samantha",
         );
 
-        const androidPreferredVoice = uniqueVoices.find(
-          (voice) => voice.name === "Google US English 1 (Natural)",
-        );
-        
+        const defaultVoice = uniqueVoices.find((voice) => voice.default);
 
         if (!googleUsEnglishVoice) {
           setVoiceWarning(noGoogleUsEnglishVoiceWarningMessage);
@@ -59,7 +59,12 @@ const VoiceSelect = () => {
 
         setIsUsingGoogleUsEnglishVoice(googleUsEnglishVoice !== undefined);
 
-        setSelectedVoice(googleUsEnglishVoice ?? iosPreferredVoices ?? androidPreferredVocies ?? uniqueVoices[0]);
+        setSelectedVoice(
+          googleUsEnglishVoice ??
+            iosPreferredVoice ??
+            defaultVoice ??
+            uniqueVoices[0],
+        );
       }
     };
 
@@ -67,6 +72,9 @@ const VoiceSelect = () => {
 
     if ("onvoiceschanged" in synth) {
       synth.onvoiceschanged = loadVoices;
+      return () => {
+        synth.onvoiceschanged = null;
+      };
     }
   }, [
     selectedVoice,
