@@ -9,30 +9,32 @@
 - Material UI
 - Zustand
 - Vite
+- ESLint
+- Prettier
 - Vitest + Testing Library
 - GitHub Actions + GitHub Pages
 
 ## Running Locally
 
-To run the application locally, make sure Node.js v20+ is installed, and then follow these steps:
+To run the application locally, make sure Node.js v20+ is installed and then follow these steps:
 
 1. Clone the repository
 
-    ```bash
-    git clone https://github.com/robertfmath/The-Chaos-Interactive.git
-    cd The-Chaos-Interactive
-    ```
+   ```bash
+   git clone https://github.com/robertfmath/The-Chaos-Interactive.git
+   cd The-Chaos-Interactive
+   ```
 
 2. Install dependencies
 
-    ```bash
-    npm install
-    ```
+   ```bash
+   npm install
+   ```
 
 3. Start the development server
 
-    ```bash
-    npm run dev
-    ```
+   ```bash
+   npm run dev
+   ```
 
 4. Open your browser and navigate to `http://localhost:3000`.
