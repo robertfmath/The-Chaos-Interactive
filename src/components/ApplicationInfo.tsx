@@ -63,9 +63,10 @@ const ApplicationInfo = () => {
             <Typography>
               Because of these phonetic substitutions, using voices from other
               dialects (e.g., British English) may lead to inaccurate
-              pronunciations. This application was validated exclusively with
-              the &quot;Google US English&quot; voice, so accuracy with other
-              voices cannot be guaranteed.
+              pronunciations. In fact, this application was validated
+              exclusively with the &quot;Google US English&quot; voice, so
+              accuracy with any other voice cannot be guaranteed. The Google US
+              English voice is typically available on desktop Chrome browsers.
             </Typography>
           </ListItem>
           <ListItem sx={{ display: "list-item", pl: 1 }}>
