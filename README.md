@@ -1,6 +1,6 @@
 # The Chaos — Interactive
 
-[The Chaos — Interactive](https://robertfmath.github.io/The-Chaos-Interactive) is an interactive web app that explores _The Chaos_, a famous poem written by Gerard Nolst Trenité in 1922 that humorously highlights the many irregularities in English pronunciation. The app provides click-to-pronounce functionality and integrated dictionary lookups for words that Trenité emphasizes, all within an easy-to-use and modern interface.
+[The Chaos — Interactive](https://robertfmath.github.io/The-Chaos-Interactive) is an interactive web app that explores _The Chaos_, a famous poem written by Gerard Nolst Trenité in 1922 that playfully highlights the many irregularities and inconsistencies in English pronunciation. The app provides click-to-pronounce functionality and integrated dictionary lookups for key words, all within a modern, user-friendly interface.
 
 ## Tools Used
 
