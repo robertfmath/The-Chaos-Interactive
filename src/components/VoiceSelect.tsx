@@ -51,6 +51,10 @@ const VoiceSelect = () => {
           (voice) => voice.name === "Samantha",
         );
 
+        const androidPreferredVoice = uniqueVoices.find(
+          (voice) => voice.name === "English United States",
+        );
+
         const defaultVoice = uniqueVoices.find((voice) => voice.default);
 
         if (!googleUsEnglishVoice) {
@@ -62,6 +66,7 @@ const VoiceSelect = () => {
         setSelectedVoice(
           googleUsEnglishVoice ??
             iosPreferredVoice ??
+            androidPreferredVoice ??
             defaultVoice ??
             uniqueVoices[0],
         );

@@ -14,9 +14,9 @@ const ApplicationInfo = () => {
           </Typography>
           <Typography component="span">
             {" "}
-            by Gerard Nolst Trenité is a poem that humorously highlights the
-            many irregularities and inconsistencies in English pronunciation.
-            For more information, see{" "}
+            is a poem written by Gerard Nolst Trenité in 1922 that playfully
+            highlights the many irregularities and inconsistencies in English
+            pronunciation. For more information, see{" "}
             <Link
               href="https://ncf.idallen.com/english.html"
               target="_blank"
@@ -31,18 +31,14 @@ const ApplicationInfo = () => {
           In this interactive version of the poem, you can click on any blue
           word and hear its pronunciation. Hovering over the word reveals a
           button that links to its definition in the Merriam-Webster dictionary.
+          (On mobile, tap a word to hear its pronunciation and &quot;touch and
+          hold&quot; to see the dictionary button.)
         </Typography>
       </Box>
 
       <Box data-testid="notes">
         <Typography sx={{ marginBottom: "0.5rem" }}>A few notes:</Typography>
         <List sx={{ listStyle: "decimal", pl: 4 }}>
-          <ListItem sx={{ display: "list-item", pl: 1 }}>
-            <Typography>
-              Due to the interactive nature of this website, it is best
-              experienced on a monitor rather than a phone or tablet.
-            </Typography>
-          </ListItem>
           <ListItem sx={{ display: "list-item", pl: 1 }}>
             <Typography>
               Words are pronounced using the browser&apos;s Web Speech API,
@@ -64,9 +60,13 @@ const ApplicationInfo = () => {
               Because of these phonetic substitutions, using voices from other
               dialects (e.g., British English) may lead to inaccurate
               pronunciations. In fact, this application was validated
-              exclusively with the &quot;Google US English&quot; voice, so
-              accuracy with any other voice cannot be guaranteed. The Google US
-              English voice is typically available on desktop Chrome browsers.
+              exclusively with the{" "}
+              <Typography component="span" sx={{ fontWeight: "bold" }}>
+                Google US English
+              </Typography>{" "}
+              voice, so accuracy with any other voice cannot be guaranteed. The
+              Google US English voice is typically available on desktop Chrome
+              browsers.
             </Typography>
           </ListItem>
           <ListItem sx={{ display: "list-item", pl: 1 }}>
@@ -81,8 +81,8 @@ const ApplicationInfo = () => {
             <Typography>
               Some speakers, particularly Bluetooth speakers, may cut off the
               beginning of each word&apos;s pronunciation due to audio latency.
-              If this occurs, consider using an alternative audio source (such
-              as headphones).
+              If this occurs, consider using an alternative audio source such as
+              headphones.
             </Typography>
           </ListItem>
         </List>

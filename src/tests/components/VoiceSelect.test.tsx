@@ -20,6 +20,11 @@ const mockiOSVoice = {
   lang: "en-US",
 } as SpeechSynthesisVoice;
 
+const mockAndroidVoice = {
+  name: "English United States",
+  lang: "en-US",
+} as SpeechSynthesisVoice;
+
 const mockDefaultVoice = {
   name: "Default Voice",
   lang: "en-US",
@@ -88,6 +93,7 @@ describe("VoiceSelect", () => {
       mockOtherVoice,
       mockDefaultVoice,
       mockiOSVoice,
+      mockAndroidVoice,
     ]);
     render(<VoiceSelect />);
 
@@ -95,7 +101,21 @@ describe("VoiceSelect", () => {
     expect(screen.queryByTestId("voice-warning")).toBeInTheDocument();
   });
 
-  it("selects default voice when available and Google US English and Samantha are not", () => {
+  it("selects Android voice (English United States) when available and Google US English and iOS voice are not", () => {
+    mockGetVoices.mockReturnValue([
+      mockSecondOtherVoice,
+      mockOtherVoice,
+      mockDefaultVoice,
+      mockiOSVoice,
+      mockAndroidVoice,
+    ]);
+    render(<VoiceSelect />);
+
+    expect(useVoiceStore.getState().selectedVoice).toBe(mockiOSVoice);
+    expect(screen.queryByTestId("voice-warning")).toBeInTheDocument();
+  });
+
+  it("selects default voice when available and Google US English, iOS voice, and Android voice are not", () => {
     mockGetVoices.mockReturnValue([
       mockOtherVoice,
       mockDefaultVoice,
@@ -107,7 +127,7 @@ describe("VoiceSelect", () => {
     expect(screen.queryByTestId("voice-warning")).toBeInTheDocument();
   });
 
-  it("selects first voice in list if Google US English, iOS voice, and default voice are not available", () => {
+  it("selects first voice in list if Google US English, iOS voice, Android voice, and default voice are not available", () => {
     mockGetVoices.mockReturnValue([mockOtherVoice, mockSecondOtherVoice]);
     render(<VoiceSelect />);
 
