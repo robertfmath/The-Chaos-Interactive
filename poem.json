@@ -1,0 +1,8157 @@
+[
+  {
+    "stanzaNumber": 1,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "words": [
+          {
+            "text": "Dearest",
+            "shouldPronounce": false
+          },
+          {
+            "text": "creature",
+            "shouldPronounce": true
+          },
+          {
+            "text": "in",
+            "shouldPronounce": false
+          },
+          {
+            "text": "creation",
+            "shouldPronounce": true
+          }
+        ]
+      },
+      {
+        "lineNumber": 2,
+        "words": [
+          {
+            "text": "Studying",
+            "shouldPronounce": false
+          },
+          {
+            "text": "English",
+            "shouldPronounce": false
+          },
+          {
+            "text": "pronunciation",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 3,
+        "words": [
+          {
+            "text": "I",
+            "shouldPronounce": false
+          },
+          {
+            "text": "will",
+            "shouldPronounce": false
+          },
+          {
+            "text": "teach",
+            "shouldPronounce": false
+          },
+          {
+            "text": "you",
+            "shouldPronounce": false
+          },
+          {
+            "text": "in",
+            "shouldPronounce": false
+          },
+          {
+            "text": "my",
+            "shouldPronounce": false
+          },
+          {
+            "text": "verse",
+            "shouldPronounce": true
+          }
+        ]
+      },
+      {
+        "lineNumber": 4,
+        "words": [
+          {
+            "text": "Sounds",
+            "shouldPronounce": false
+          },
+          {
+            "text": "like",
+            "shouldPronounce": false
+          },
+          {
+            "text": "corpse",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "corps",
+            "shouldPronounce": true,
+            "phoneticOverride": "kor",
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "horse",
+            "shouldPronounce": true
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "worse",
+            "shouldPronounce": true,
+            "trailingPunctuation": "."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stanzaNumber": 2,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "words": [
+          {
+            "text": "I",
+            "shouldPronounce": false
+          },
+          {
+            "text": "will",
+            "shouldPronounce": false
+          },
+          {
+            "text": "keep",
+            "shouldPronounce": false
+          },
+          {
+            "text": "you",
+            "shouldPronounce": false,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "Susy",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "busy",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 2,
+        "words": [
+          {
+            "text": "Make",
+            "shouldPronounce": false
+          },
+          {
+            "text": "your",
+            "shouldPronounce": false
+          },
+          {
+            "text": "head",
+            "shouldPronounce": true
+          },
+          {
+            "text": "with",
+            "shouldPronounce": false
+          },
+          {
+            "text": "heat",
+            "shouldPronounce": true
+          },
+          {
+            "text": "grow",
+            "shouldPronounce": false
+          },
+          {
+            "text": "dizzy",
+            "shouldPronounce": false,
+            "trailingPunctuation": ";"
+          }
+        ]
+      },
+      {
+        "lineNumber": 3,
+        "words": [
+          {
+            "text": "Tear",
+            "shouldPronounce": true,
+            "phoneticOverride": "teer"
+          },
+          {
+            "text": "in",
+            "shouldPronounce": false
+          },
+          {
+            "text": "eye",
+            "shouldPronounce": false,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "your",
+            "shouldPronounce": false
+          },
+          {
+            "text": "dress",
+            "shouldPronounce": false
+          },
+          {
+            "text": "you'll",
+            "shouldPronounce": false
+          },
+          {
+            "text": "tear",
+            "shouldPronounce": true,
+            "phoneticOverride": "tare",
+            "trailingPunctuation": ";"
+          }
+        ]
+      },
+      {
+        "lineNumber": 4,
+        "words": [
+          {
+            "text": "Queer",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "fair",
+            "shouldPronounce": false
+          },
+          {
+            "text": "seer",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "hear",
+            "shouldPronounce": true
+          },
+          {
+            "text": "my",
+            "shouldPronounce": false
+          },
+          {
+            "text": "prayer",
+            "shouldPronounce": true,
+            "trailingPunctuation": "."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stanzaNumber": 3,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "words": [
+          {
+            "text": "Pray",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "console",
+            "shouldPronounce": false
+          },
+          {
+            "text": "your",
+            "shouldPronounce": false
+          },
+          {
+            "text": "loving",
+            "shouldPronounce": false
+          },
+          {
+            "text": "poet",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 2,
+        "words": [
+          {
+            "text": "Make",
+            "shouldPronounce": false
+          },
+          {
+            "text": "my",
+            "shouldPronounce": false
+          },
+          {
+            "text": "coat",
+            "shouldPronounce": false
+          },
+          {
+            "text": "look",
+            "shouldPronounce": false
+          },
+          {
+            "text": "new",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "dear",
+            "shouldPronounce": false,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "sew it",
+            "shouldPronounce": true,
+            "linkTextOverride": "sew"
+          }
+        ]
+      },
+      {
+        "lineNumber": 3,
+        "words": [
+          {
+            "text": "Just",
+            "shouldPronounce": false
+          },
+          {
+            "text": "compare",
+            "shouldPronounce": false
+          },
+          {
+            "text": "heart",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "hear",
+            "shouldPronounce": true
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "heard",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 4,
+        "words": [
+          {
+            "text": "Dies",
+            "shouldPronounce": true
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "diet",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "lord",
+            "shouldPronounce": true
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "word",
+            "shouldPronounce": true,
+            "trailingPunctuation": "."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stanzaNumber": 4,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "words": [
+          {
+            "text": "Sword",
+            "shouldPronounce": true
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "sward",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "retain",
+            "shouldPronounce": true
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "Britain",
+            "shouldPronounce": true
+          }
+        ]
+      },
+      {
+        "lineNumber": 2,
+        "words": [
+          {
+            "text": "Mind",
+            "shouldPronounce": false,
+            "leadingPunctuation": "("
+          },
+          {
+            "text": "the",
+            "shouldPronounce": false
+          },
+          {
+            "text": "latter",
+            "shouldPronounce": false
+          },
+          {
+            "text": "how",
+            "shouldPronounce": false
+          },
+          {
+            "text": "it's",
+            "shouldPronounce": false
+          },
+          {
+            "text": "written",
+            "shouldPronounce": true,
+            "trailingPunctuation": ")."
+          }
+        ]
+      },
+      {
+        "lineNumber": 3,
+        "words": [
+          {
+            "text": "Made",
+            "shouldPronounce": true
+          },
+          {
+            "text": "has",
+            "shouldPronounce": false
+          },
+          {
+            "text": "not",
+            "shouldPronounce": false
+          },
+          {
+            "text": "the",
+            "shouldPronounce": false
+          },
+          {
+            "text": "sound",
+            "shouldPronounce": false
+          },
+          {
+            "text": "of",
+            "shouldPronounce": false
+          },
+          {
+            "text": "bade",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 4,
+        "words": [
+          {
+            "text": "Say",
+            "shouldPronounce": true,
+            "noSpace": true,
+            "trailingPunctuation": "-"
+          },
+          {
+            "text": "said",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "pay",
+            "shouldPronounce": true,
+            "noSpace": true,
+            "trailingPunctuation": "-"
+          },
+          {
+            "text": "paid",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "laid",
+            "shouldPronounce": true
+          },
+          {
+            "text": "but",
+            "shouldPronounce": false
+          },
+          {
+            "text": "plaid",
+            "shouldPronounce": true,
+            "trailingPunctuation": "."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stanzaNumber": 5,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "words": [
+          {
+            "text": "Now",
+            "shouldPronounce": false
+          },
+          {
+            "text": "I",
+            "shouldPronounce": false
+          },
+          {
+            "text": "surely",
+            "shouldPronounce": false
+          },
+          {
+            "text": "will",
+            "shouldPronounce": false
+          },
+          {
+            "text": "not",
+            "shouldPronounce": false
+          },
+          {
+            "text": "plague",
+            "shouldPronounce": true
+          },
+          {
+            "text": "you",
+            "shouldPronounce": false
+          }
+        ]
+      },
+      {
+        "lineNumber": 2,
+        "words": [
+          {
+            "text": "With",
+            "shouldPronounce": false
+          },
+          {
+            "text": "such",
+            "shouldPronounce": false
+          },
+          {
+            "text": "words",
+            "shouldPronounce": false
+          },
+          {
+            "text": "as",
+            "shouldPronounce": false
+          },
+          {
+            "text": "vague",
+            "shouldPronounce": true
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "ague",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 3,
+        "words": [
+          {
+            "text": "But",
+            "shouldPronounce": false
+          },
+          {
+            "text": "be",
+            "shouldPronounce": false
+          },
+          {
+            "text": "careful",
+            "shouldPronounce": false
+          },
+          {
+            "text": "how",
+            "shouldPronounce": false
+          },
+          {
+            "text": "you",
+            "shouldPronounce": false
+          },
+          {
+            "text": "speak",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 4,
+        "words": [
+          {
+            "text": "Say",
+            "shouldPronounce": false,
+            "trailingPunctuation": ":"
+          },
+          {
+            "text": "gush",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "bush",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "steak",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "streak",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "break",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "bleak",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stanzaNumber": 6,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "words": [
+          {
+            "text": "Previous",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "precious",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "fuchsia",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "via",
+            "shouldPronounce": true
+          }
+        ]
+      },
+      {
+        "lineNumber": 2,
+        "words": [
+          {
+            "text": "Recipe",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "pipe",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "studding-sail",
+            "shouldPronounce": true,
+            "phoneticOverride": "stunsle",
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "choir",
+            "shouldPronounce": true,
+            "trailingPunctuation": ";"
+          }
+        ]
+      },
+      {
+        "lineNumber": 3,
+        "words": [
+          {
+            "text": "Woven",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "oven",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "how",
+            "shouldPronounce": true
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "low",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 4,
+        "words": [
+          {
+            "text": "Script",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "receipt",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "shoe",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "poem",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "toe",
+            "shouldPronounce": true,
+            "trailingPunctuation": "."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stanzaNumber": 7,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "words": [
+          {
+            "text": "Say",
+            "shouldPronounce": false,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "expecting",
+            "shouldPronounce": false
+          },
+          {
+            "text": "fraud",
+            "shouldPronounce": false
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "trickery",
+            "shouldPronounce": true,
+            "trailingPunctuation": ":"
+          }
+        ]
+      },
+      {
+        "lineNumber": 2,
+        "words": [
+          {
+            "text": "Daughter",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "laughter",
+            "shouldPronounce": true
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "Terpsichore",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 3,
+        "words": [
+          {
+            "text": "Branch",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "ranch",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "measles",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "topsails",
+            "shouldPronounce": true,
+            "phoneticOverride": "topsils",
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "aisles",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 4,
+        "words": [
+          {
+            "text": "Missiles",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "similes",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "reviles",
+            "shouldPronounce": true,
+            "trailingPunctuation": "."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stanzaNumber": 8,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "words": [
+          {
+            "text": "Wholly",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "holly",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "signal",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "signing",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 2,
+        "words": [
+          {
+            "text": "Same",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "examining",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "but",
+            "shouldPronounce": false
+          },
+          {
+            "text": "mining",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 3,
+        "words": [
+          {
+            "text": "Scholar",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "vicar",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "cigar",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 4,
+        "words": [
+          {
+            "text": "Solar",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "mica",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "war",
+            "shouldPronounce": true
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "far",
+            "shouldPronounce": true,
+            "trailingPunctuation": "."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stanzaNumber": 9,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "words": [
+          {
+            "text": "From",
+            "shouldPronounce": false
+          },
+          {
+            "text": "desire",
+            "shouldPronounce": false,
+            "leadingPunctuation": "\"",
+            "trailingPunctuation": "\":"
+          },
+          {
+            "text": "desirable",
+            "shouldPronounce": true,
+            "noSpace": true,
+            "trailingPunctuation": "-"
+          },
+          {
+            "text": "admirable",
+            "shouldPronounce": true
+          },
+          {
+            "text": "from",
+            "shouldPronounce": false
+          },
+          {
+            "text": "admire",
+            "shouldPronounce": false,
+            "leadingPunctuation": "\"",
+            "trailingPunctuation": "\","
+          }
+        ]
+      },
+      {
+        "lineNumber": 2,
+        "words": [
+          {
+            "text": "Lumber",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "plumber",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "bier",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "but",
+            "shouldPronounce": false
+          },
+          {
+            "text": "brier",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 3,
+        "words": [
+          {
+            "text": "Topsham",
+            "shouldPronounce": true,
+            "phoneticOverride": "topsum",
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "brougham",
+            "shouldPronounce": true,
+            "phoneticOverride": "brewum",
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "renown",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "but",
+            "shouldPronounce": false
+          },
+          {
+            "text": "known",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 4,
+        "words": [
+          {
+            "text": "Knowledge",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "done",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "lone",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "gone",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "none",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "tone",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stanzaNumber": 10,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "words": [
+          {
+            "text": "One",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "anemone",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "Balmoral",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 2,
+        "words": [
+          {
+            "text": "Kitchen",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "lichen",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "laundry",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "laurel",
+            "shouldPronounce": true,
+            "trailingPunctuation": "."
+          }
+        ]
+      },
+      {
+        "lineNumber": 3,
+        "words": [
+          {
+            "text": "Gertrude",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "German",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "wind",
+            "shouldPronounce": true,
+            "phoneticOverride": "wind"
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "wind",
+            "shouldPronounce": true,
+            "phoneticOverride": "wined",
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 4,
+        "words": [
+          {
+            "text": "Beau",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "kind",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "kindred",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "queue",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "mankind",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stanzaNumber": 11,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "words": [
+          {
+            "text": "Tortoise",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "turquoise",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "chamois-leather",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 2,
+        "words": [
+          {
+            "text": "Reading",
+            "shouldPronounce": true,
+            "phoneticOverride": "reeding",
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "Reading",
+            "shouldPronounce": true,
+            "phoneticOverride": "redding",
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "heathen",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "heather",
+            "shouldPronounce": true,
+            "trailingPunctuation": "."
+          }
+        ]
+      },
+      {
+        "lineNumber": 3,
+        "words": [
+          {
+            "text": "This",
+            "shouldPronounce": false
+          },
+          {
+            "text": "phonetic",
+            "shouldPronounce": false
+          },
+          {
+            "text": "labyrinth",
+            "shouldPronounce": false
+          }
+        ]
+      },
+      {
+        "lineNumber": 4,
+        "words": [
+          {
+            "text": "Gives",
+            "shouldPronounce": false
+          },
+          {
+            "text": "moss",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "gross",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "brook",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "brooch",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "ninth",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "plinth",
+            "shouldPronounce": true,
+            "trailingPunctuation": "."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stanzaNumber": 12,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "words": [
+          {
+            "text": "Have",
+            "shouldPronounce": false
+          },
+          {
+            "text": "you",
+            "shouldPronounce": false
+          },
+          {
+            "text": "ever",
+            "shouldPronounce": false
+          },
+          {
+            "text": "yet",
+            "shouldPronounce": false
+          },
+          {
+            "text": "endeavoured",
+            "shouldPronounce": true
+          }
+        ]
+      },
+      {
+        "lineNumber": 2,
+        "words": [
+          {
+            "text": "To",
+            "shouldPronounce": false
+          },
+          {
+            "text": "pronounce",
+            "shouldPronounce": false
+          },
+          {
+            "text": "revered",
+            "shouldPronounce": true
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "severed",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 3,
+        "words": [
+          {
+            "text": "Demon",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "lemon",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "ghoul",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "foul",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "soul",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 4,
+        "words": [
+          {
+            "text": "Peter",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "petrol",
+            "shouldPronounce": true
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "patrol",
+            "shouldPronounce": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stanzaNumber": 13,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "words": [
+          {
+            "text": "Billet",
+            "shouldPronounce": true
+          },
+          {
+            "text": "does",
+            "shouldPronounce": false
+          },
+          {
+            "text": "not",
+            "shouldPronounce": false
+          },
+          {
+            "text": "end",
+            "shouldPronounce": false
+          },
+          {
+            "text": "like",
+            "shouldPronounce": false
+          },
+          {
+            "text": "ballet",
+            "shouldPronounce": true,
+            "trailingPunctuation": ";"
+          }
+        ]
+      },
+      {
+        "lineNumber": 2,
+        "words": [
+          {
+            "text": "Bouquet",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "wallet",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "mallet",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "chalet",
+            "shouldPronounce": true,
+            "trailingPunctuation": "."
+          }
+        ]
+      },
+      {
+        "lineNumber": 3,
+        "words": [
+          {
+            "text": "Blood",
+            "shouldPronounce": true
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "flood",
+            "shouldPronounce": true
+          },
+          {
+            "text": "are",
+            "shouldPronounce": false
+          },
+          {
+            "text": "not",
+            "shouldPronounce": false
+          },
+          {
+            "text": "like",
+            "shouldPronounce": false
+          },
+          {
+            "text": "food",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 4,
+        "words": [
+          {
+            "text": "Nor",
+            "shouldPronounce": false
+          },
+          {
+            "text": "is",
+            "shouldPronounce": false
+          },
+          {
+            "text": "mould",
+            "shouldPronounce": true
+          },
+          {
+            "text": "like",
+            "shouldPronounce": false
+          },
+          {
+            "text": "should",
+            "shouldPronounce": true
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "would",
+            "shouldPronounce": true,
+            "trailingPunctuation": "."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stanzaNumber": 14,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "words": [
+          {
+            "text": "Banquet",
+            "shouldPronounce": true
+          },
+          {
+            "text": "is",
+            "shouldPronounce": false
+          },
+          {
+            "text": "not",
+            "shouldPronounce": false
+          },
+          {
+            "text": "nearly",
+            "shouldPronounce": false
+          },
+          {
+            "text": "parquet",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 2,
+        "words": [
+          {
+            "text": "Which",
+            "shouldPronounce": false
+          },
+          {
+            "text": "exactly",
+            "shouldPronounce": false
+          },
+          {
+            "text": "rhymes",
+            "shouldPronounce": false
+          },
+          {
+            "text": "with",
+            "shouldPronounce": false
+          },
+          {
+            "text": "khaki",
+            "shouldPronounce": true,
+            "trailingPunctuation": "."
+          }
+        ]
+      },
+      {
+        "lineNumber": 3,
+        "words": [
+          {
+            "text": "Discount",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "viscount",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "load",
+            "shouldPronounce": true
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "broad",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 4,
+        "words": [
+          {
+            "text": "Toward",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "to",
+            "shouldPronounce": false
+          },
+          {
+            "text": "forward",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "to",
+            "shouldPronounce": false
+          },
+          {
+            "text": "reward",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stanzaNumber": 15,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "words": [
+          {
+            "text": "Ricocheted",
+            "shouldPronounce": true
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "crocheting",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "croquet",
+            "shouldPronounce": true,
+            "trailingPunctuation": "?"
+          }
+        ]
+      },
+      {
+        "lineNumber": 2,
+        "words": [
+          {
+            "text": "Right",
+            "shouldPronounce": false,
+            "trailingPunctuation": "!"
+          },
+          {
+            "text": "Your",
+            "shouldPronounce": false
+          },
+          {
+            "text": "pronunciation's",
+            "shouldPronounce": false
+          },
+          {
+            "text": "OK",
+            "shouldPronounce": false
+          }
+        ]
+      },
+      {
+        "lineNumber": 3,
+        "words": [
+          {
+            "text": "Rounded",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "wounded",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "grieve",
+            "shouldPronounce": true
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "sieve",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 4,
+        "words": [
+          {
+            "text": "Friend",
+            "shouldPronounce": true
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "fiend",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "alive",
+            "shouldPronounce": true
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "live",
+            "shouldPronounce": true,
+            "phoneticOverride": "liv",
+            "trailingPunctuation": "."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stanzaNumber": 16,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "words": [
+          {
+            "text": "Is",
+            "shouldPronounce": false
+          },
+          {
+            "text": "your",
+            "shouldPronounce": false
+          },
+          {
+            "text": "r",
+            "shouldPronounce": false,
+            "standaloneLetter": true
+          },
+          {
+            "text": "correct",
+            "shouldPronounce": false
+          },
+          {
+            "text": "in",
+            "shouldPronounce": false
+          },
+          {
+            "text": "higher",
+            "shouldPronounce": true,
+            "trailingPunctuation": "?"
+          }
+        ]
+      },
+      {
+        "lineNumber": 2,
+        "words": [
+          {
+            "text": "Keats",
+            "shouldPronounce": false
+          },
+          {
+            "text": "asserts",
+            "shouldPronounce": false
+          },
+          {
+            "text": "it",
+            "shouldPronounce": false
+          },
+          {
+            "text": "rhymes",
+            "shouldPronounce": false
+          },
+          {
+            "text": "Thalia",
+            "shouldPronounce": true,
+            "phoneticOverride": "the-lye-uh",
+            "trailingPunctuation": ".",
+            "phonemicRespelling": "thə-ˈlī-ə"
+          }
+        ]
+      },
+      {
+        "lineNumber": 3,
+        "words": [
+          {
+            "text": "Hugh",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "but",
+            "shouldPronounce": false
+          },
+          {
+            "text": "hug",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "hood",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "but",
+            "shouldPronounce": false
+          },
+          {
+            "text": "hoot",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 4,
+        "words": [
+          {
+            "text": "Buoyant",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "minute",
+            "shouldPronounce": true,
+            "phoneticOverride": "minit",
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "but",
+            "shouldPronounce": false
+          },
+          {
+            "text": "minute",
+            "shouldPronounce": true,
+            "phoneticOverride": "mynoot",
+            "trailingPunctuation": "."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stanzaNumber": 17,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "words": [
+          {
+            "text": "Say",
+            "shouldPronounce": false
+          },
+          {
+            "text": "abscission",
+            "shouldPronounce": true
+          },
+          {
+            "text": "with",
+            "shouldPronounce": false
+          },
+          {
+            "text": "precision",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 2,
+        "words": [
+          {
+            "text": "Now",
+            "shouldPronounce": false,
+            "trailingPunctuation": ":"
+          },
+          {
+            "text": "position",
+            "shouldPronounce": true
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "transition",
+            "shouldPronounce": true,
+            "trailingPunctuation": ";"
+          }
+        ]
+      },
+      {
+        "lineNumber": 3,
+        "words": [
+          {
+            "text": "Would",
+            "shouldPronounce": false
+          },
+          {
+            "text": "it",
+            "shouldPronounce": false
+          },
+          {
+            "text": "tally",
+            "shouldPronounce": false
+          },
+          {
+            "text": "with",
+            "shouldPronounce": false
+          },
+          {
+            "text": "my",
+            "shouldPronounce": false
+          },
+          {
+            "text": "rhyme",
+            "shouldPronounce": true
+          }
+        ]
+      },
+      {
+        "lineNumber": 4,
+        "words": [
+          {
+            "text": "If",
+            "shouldPronounce": false
+          },
+          {
+            "text": "I",
+            "shouldPronounce": false
+          },
+          {
+            "text": "mentioned",
+            "shouldPronounce": false
+          },
+          {
+            "text": "paradigm",
+            "shouldPronounce": true,
+            "trailingPunctuation": "?"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stanzaNumber": 18,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "words": [
+          {
+            "text": "Twopence",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "threepence",
+            "shouldPronounce": true,
+            "phoneticOverride": "thrippence",
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "tease",
+            "shouldPronounce": true
+          },
+          {
+            "text": "are",
+            "shouldPronounce": false
+          },
+          {
+            "text": "easy",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 2,
+        "words": [
+          {
+            "text": "But",
+            "shouldPronounce": false
+          },
+          {
+            "text": "cease",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "crease",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "grease",
+            "shouldPronounce": true
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "greasy",
+            "shouldPronounce": true,
+            "trailingPunctuation": "?"
+          }
+        ]
+      },
+      {
+        "lineNumber": 3,
+        "words": [
+          {
+            "text": "Cornice",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "nice",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "valise",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "revise",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 4,
+        "words": [
+          {
+            "text": "Rabies",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "but",
+            "shouldPronounce": false
+          },
+          {
+            "text": "lullabies",
+            "shouldPronounce": true,
+            "trailingPunctuation": "."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stanzaNumber": 19,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "words": [
+          {
+            "text": "Of",
+            "shouldPronounce": false
+          },
+          {
+            "text": "such",
+            "shouldPronounce": false
+          },
+          {
+            "text": "puzzling",
+            "shouldPronounce": false
+          },
+          {
+            "text": "words",
+            "shouldPronounce": false
+          },
+          {
+            "text": "as",
+            "shouldPronounce": false
+          },
+          {
+            "text": "nauseous",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 2,
+        "words": [
+          {
+            "text": "Rhyming",
+            "shouldPronounce": false
+          },
+          {
+            "text": "well",
+            "shouldPronounce": false
+          },
+          {
+            "text": "with",
+            "shouldPronounce": false
+          },
+          {
+            "text": "cautious",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "tortious",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 3,
+        "words": [
+          {
+            "text": "You'll",
+            "shouldPronounce": false
+          },
+          {
+            "text": "envelop",
+            "shouldPronounce": true
+          },
+          {
+            "text": "lists",
+            "shouldPronounce": false,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "I",
+            "shouldPronounce": false
+          },
+          {
+            "text": "hope",
+            "shouldPronounce": false,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 4,
+        "words": [
+          {
+            "text": "In",
+            "shouldPronounce": false
+          },
+          {
+            "text": "a",
+            "shouldPronounce": false
+          },
+          {
+            "text": "linen",
+            "shouldPronounce": false
+          },
+          {
+            "text": "envelope",
+            "shouldPronounce": true,
+            "trailingPunctuation": "."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stanzaNumber": 20,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "words": [
+          {
+            "text": "Would",
+            "shouldPronounce": false
+          },
+          {
+            "text": "you",
+            "shouldPronounce": false
+          },
+          {
+            "text": "like",
+            "shouldPronounce": false
+          },
+          {
+            "text": "some",
+            "shouldPronounce": false
+          },
+          {
+            "text": "more",
+            "shouldPronounce": false,
+            "trailingPunctuation": "?"
+          },
+          {
+            "text": "You'll",
+            "shouldPronounce": false
+          },
+          {
+            "text": "have",
+            "shouldPronounce": true
+          },
+          {
+            "text": "it",
+            "shouldPronounce": false,
+            "trailingPunctuation": "!"
+          }
+        ]
+      },
+      {
+        "lineNumber": 2,
+        "words": [
+          {
+            "text": "Affidavit",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "David",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "davit",
+            "shouldPronounce": true,
+            "trailingPunctuation": "."
+          }
+        ]
+      },
+      {
+        "lineNumber": 3,
+        "words": [
+          {
+            "text": "To",
+            "shouldPronounce": false
+          },
+          {
+            "text": "abjure",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "to",
+            "shouldPronounce": false
+          },
+          {
+            "text": "perjure",
+            "shouldPronounce": true,
+            "trailingPunctuation": "."
+          },
+          {
+            "text": "Sheik",
+            "shouldPronounce": true
+          }
+        ]
+      },
+      {
+        "lineNumber": 4,
+        "words": [
+          {
+            "text": "Does",
+            "shouldPronounce": false
+          },
+          {
+            "text": "not",
+            "shouldPronounce": false
+          },
+          {
+            "text": "sound",
+            "shouldPronounce": false
+          },
+          {
+            "text": "like",
+            "shouldPronounce": false
+          },
+          {
+            "text": "Czech",
+            "shouldPronounce": true
+          },
+          {
+            "text": "but",
+            "shouldPronounce": false
+          },
+          {
+            "text": "ache",
+            "shouldPronounce": true,
+            "trailingPunctuation": "."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stanzaNumber": 21,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "words": [
+          {
+            "text": "Liberty",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "library",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "heave",
+            "shouldPronounce": true
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "heaven",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 2,
+        "words": [
+          {
+            "text": "Rachel",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "loch",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "moustache",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "eleven",
+            "shouldPronounce": true,
+            "trailingPunctuation": "."
+          }
+        ]
+      },
+      {
+        "lineNumber": 3,
+        "words": [
+          {
+            "text": "We",
+            "shouldPronounce": false
+          },
+          {
+            "text": "say",
+            "shouldPronounce": false
+          },
+          {
+            "text": "hallowed",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "but",
+            "shouldPronounce": false
+          },
+          {
+            "text": "allowed",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 4,
+        "words": [
+          {
+            "text": "People",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "leopard",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "towed",
+            "shouldPronounce": true
+          },
+          {
+            "text": "but",
+            "shouldPronounce": false
+          },
+          {
+            "text": "vowed",
+            "shouldPronounce": true,
+            "trailingPunctuation": "."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stanzaNumber": 22,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "words": [
+          {
+            "text": "Mark",
+            "shouldPronounce": false
+          },
+          {
+            "text": "the",
+            "shouldPronounce": false
+          },
+          {
+            "text": "difference",
+            "shouldPronounce": false,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "moreover",
+            "shouldPronounce": false
+          }
+        ]
+      },
+      {
+        "lineNumber": 2,
+        "words": [
+          {
+            "text": "Between",
+            "shouldPronounce": false
+          },
+          {
+            "text": "mover",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "plover",
+            "shouldPronounce": true,
+            "phoneticOverride": "pluvver",
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "Dover",
+            "shouldPronounce": true,
+            "trailingPunctuation": "."
+          }
+        ]
+      },
+      {
+        "lineNumber": 3,
+        "words": [
+          {
+            "text": "Leeches",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "breeches",
+            "shouldPronounce": true,
+            "phoneticOverride": "britches",
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "wise",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "precise",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 4,
+        "words": [
+          {
+            "text": "Chalice",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "but",
+            "shouldPronounce": false
+          },
+          {
+            "text": "police",
+            "shouldPronounce": true
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "lice",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stanzaNumber": 23,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "words": [
+          {
+            "text": "Camel",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "constable",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "unstable",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 2,
+        "words": [
+          {
+            "text": "Principle",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "disciple",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "label",
+            "shouldPronounce": true,
+            "trailingPunctuation": "."
+          }
+        ]
+      },
+      {
+        "lineNumber": 3,
+        "words": [
+          {
+            "text": "Petal",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "penal",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "canal",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 4,
+        "words": [
+          {
+            "text": "Wait",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "surmise",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "plait",
+            "shouldPronounce": true,
+            "phoneticOverride": "plate",
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "promise",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "pal",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stanzaNumber": 24,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "words": [
+          {
+            "text": "Suit",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "suite",
+            "shouldPronounce": true,
+            "phoneticOverride": "sweet",
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "ruin",
+            "shouldPronounce": true,
+            "trailingPunctuation": "."
+          },
+          {
+            "text": "Circuit",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "conduit",
+            "shouldPronounce": true
+          }
+        ]
+      },
+      {
+        "lineNumber": 2,
+        "words": [
+          {
+            "text": "Rhyme",
+            "shouldPronounce": false
+          },
+          {
+            "text": "with",
+            "shouldPronounce": false
+          },
+          {
+            "text": "shirk",
+            "shouldPronounce": false,
+            "leadingPunctuation": "\""
+          },
+          {
+            "text": "it",
+            "shouldPronounce": false,
+            "trailingPunctuation": "\""
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "beyond",
+            "shouldPronounce": false,
+            "leadingPunctuation": "\""
+          },
+          {
+            "text": "it",
+            "shouldPronounce": false,
+            "trailingPunctuation": "\","
+          }
+        ]
+      },
+      {
+        "lineNumber": 3,
+        "words": [
+          {
+            "text": "But",
+            "shouldPronounce": false
+          },
+          {
+            "text": "it",
+            "shouldPronounce": false
+          },
+          {
+            "text": "is",
+            "shouldPronounce": false
+          },
+          {
+            "text": "not",
+            "shouldPronounce": false
+          },
+          {
+            "text": "hard",
+            "shouldPronounce": false
+          },
+          {
+            "text": "to",
+            "shouldPronounce": false
+          },
+          {
+            "text": "tell",
+            "shouldPronounce": false
+          }
+        ]
+      },
+      {
+        "lineNumber": 4,
+        "words": [
+          {
+            "text": "Why",
+            "shouldPronounce": false
+          },
+          {
+            "text": "it's",
+            "shouldPronounce": false
+          },
+          {
+            "text": "pall",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "mall",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "but",
+            "shouldPronounce": false
+          },
+          {
+            "text": "Pall Mall",
+            "shouldPronounce": true,
+            "phoneticOverride": "pelmel",
+            "trailingPunctuation": ".",
+            "phonemicRespelling": "ˌpel-ˈmel "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stanzaNumber": 25,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "words": [
+          {
+            "text": "Muscle",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "muscular",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "gaol",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "iron",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 2,
+        "words": [
+          {
+            "text": "Timber",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "climber",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "bullion",
+            "shouldPronounce": true,
+            "phoneticOverride": "bullyin",
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "lion",
+            "shouldPronounce": true
+          }
+        ]
+      },
+      {
+        "lineNumber": 3,
+        "words": [
+          {
+            "text": "Worm",
+            "shouldPronounce": true
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "storm",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "chaise",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "chaos",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "chair",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 4,
+        "words": [
+          {
+            "text": "Senator",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "spectator",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "mayor",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stanzaNumber": 26,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "words": [
+          {
+            "text": "Ivy",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "privy",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "famous",
+            "shouldPronounce": true,
+            "trailingPunctuation": ";"
+          },
+          {
+            "text": "clamour",
+            "shouldPronounce": true
+          }
+        ]
+      },
+      {
+        "lineNumber": 2,
+        "words": [
+          {
+            "text": "Has",
+            "shouldPronounce": false
+          },
+          {
+            "text": "the",
+            "shouldPronounce": false
+          },
+          {
+            "text": "a",
+            "shouldPronounce": false,
+            "standaloneLetter": true
+          },
+          {
+            "text": "of",
+            "shouldPronounce": false
+          },
+          {
+            "text": "drachm",
+            "shouldPronounce": true
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "hammer",
+            "shouldPronounce": true,
+            "trailingPunctuation": "."
+          }
+        ]
+      },
+      {
+        "lineNumber": 3,
+        "words": [
+          {
+            "text": "Pussy",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "hussy",
+            "shouldPronounce": true
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "possess",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 4,
+        "words": [
+          {
+            "text": "Desert",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "but",
+            "shouldPronounce": false
+          },
+          {
+            "text": "desert",
+            "shouldPronounce": true,
+            "trailingPunctuation": ",",
+            "phonemicRespelling": "di-ˈzərt"
+          },
+          {
+            "text": "address",
+            "shouldPronounce": true,
+            "phoneticOverride": "a dress",
+            "trailingPunctuation": "."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stanzaNumber": 27,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "words": [
+          {
+            "text": "Golf",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "wolf",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "countenance",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "lieutenants",
+            "shouldPronounce": true
+          }
+        ]
+      },
+      {
+        "lineNumber": 2,
+        "words": [
+          {
+            "text": "Hoist",
+            "shouldPronounce": false
+          },
+          {
+            "text": "in",
+            "shouldPronounce": false
+          },
+          {
+            "text": "lieu",
+            "shouldPronounce": true,
+            "phoneticOverride": "loo"
+          },
+          {
+            "text": "of",
+            "shouldPronounce": false
+          },
+          {
+            "text": "flags",
+            "shouldPronounce": false
+          },
+          {
+            "text": "left",
+            "shouldPronounce": false
+          },
+          {
+            "text": "pennants",
+            "shouldPronounce": true,
+            "trailingPunctuation": "."
+          }
+        ]
+      },
+      {
+        "lineNumber": 3,
+        "words": [
+          {
+            "text": "Courier",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "courtier",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "tomb",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "bomb",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "comb",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 4,
+        "words": [
+          {
+            "text": "Cow",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "but",
+            "shouldPronounce": false
+          },
+          {
+            "text": "Cowper",
+            "shouldPronounce": true,
+            "phoneticOverride": "cooper",
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "some",
+            "shouldPronounce": true
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "home",
+            "shouldPronounce": true,
+            "trailingPunctuation": "."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stanzaNumber": 28,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "words": [
+          {
+            "text": "Solder",
+            "shouldPronounce": true,
+            "leadingPunctuation": "\"",
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "soldier",
+            "shouldPronounce": true,
+            "trailingPunctuation": "!"
+          },
+          {
+            "text": "Blood",
+            "shouldPronounce": false
+          },
+          {
+            "text": "is",
+            "shouldPronounce": false
+          },
+          {
+            "text": "thicker",
+            "shouldPronounce": true,
+            "trailingPunctuation": "\","
+          }
+        ]
+      },
+      {
+        "lineNumber": 2,
+        "words": [
+          {
+            "text": "Quoth",
+            "shouldPronounce": false
+          },
+          {
+            "text": "he",
+            "shouldPronounce": false,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "than",
+            "shouldPronounce": false,
+            "leadingPunctuation": "\""
+          },
+          {
+            "text": "liqueur",
+            "shouldPronounce": true
+          },
+          {
+            "text": "or",
+            "shouldPronounce": false
+          },
+          {
+            "text": "liquor",
+            "shouldPronounce": true,
+            "trailingPunctuation": "\","
+          }
+        ]
+      },
+      {
+        "lineNumber": 3,
+        "words": [
+          {
+            "text": "Making",
+            "shouldPronounce": false,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "it",
+            "shouldPronounce": false,
+            "trailingPunctuation": "!"
+          },
+          {
+            "text": "is",
+            "shouldPronounce": false
+          },
+          {
+            "text": "sad",
+            "shouldPronounce": false
+          },
+          {
+            "text": "but",
+            "shouldPronounce": false
+          },
+          {
+            "text": "true",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 4,
+        "words": [
+          {
+            "text": "In",
+            "shouldPronounce": false
+          },
+          {
+            "text": "bravado",
+            "shouldPronounce": false,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "much",
+            "shouldPronounce": false
+          },
+          {
+            "text": "ado",
+            "shouldPronounce": true,
+            "trailingPunctuation": "."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stanzaNumber": 29,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "words": [
+          {
+            "text": "Stranger",
+            "shouldPronounce": true
+          },
+          {
+            "text": "does",
+            "shouldPronounce": false
+          },
+          {
+            "text": "not",
+            "shouldPronounce": false
+          },
+          {
+            "text": "rhyme",
+            "shouldPronounce": false
+          },
+          {
+            "text": "with",
+            "shouldPronounce": false
+          },
+          {
+            "text": "anger",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 2,
+        "words": [
+          {
+            "text": "Neither",
+            "shouldPronounce": false,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "does",
+            "shouldPronounce": false
+          },
+          {
+            "text": "devour",
+            "shouldPronounce": true
+          },
+          {
+            "text": "with",
+            "shouldPronounce": false
+          },
+          {
+            "text": "clangour",
+            "shouldPronounce": true,
+            "phoneticOverride": "clanger",
+            "trailingPunctuation": "."
+          }
+        ]
+      },
+      {
+        "lineNumber": 3,
+        "words": [
+          {
+            "text": "Pilot",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "pivot",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "gaunt",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "but",
+            "shouldPronounce": false
+          },
+          {
+            "text": "aunt",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 4,
+        "words": [
+          {
+            "text": "Font",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "front",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "wont",
+            "shouldPronounce": true,
+            "phoneticOverride": "want",
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "want",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "grand",
+            "shouldPronounce": true
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "grant",
+            "shouldPronounce": true,
+            "trailingPunctuation": "."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stanzaNumber": 30,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "words": [
+          {
+            "text": "Arsenic",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "specific",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "scenic",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 2,
+        "words": [
+          {
+            "text": "Relic",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "rhetoric",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "hygienic",
+            "shouldPronounce": true,
+            "trailingPunctuation": "."
+          }
+        ]
+      },
+      {
+        "lineNumber": 3,
+        "words": [
+          {
+            "text": "Gooseberry",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "goose",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "close",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "but",
+            "shouldPronounce": false
+          },
+          {
+            "text": "close",
+            "shouldPronounce": true,
+            "phoneticOverride": "cloze",
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 4,
+        "words": [
+          {
+            "text": "Paradise",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "rise",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "rose",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "dose",
+            "shouldPronounce": true,
+            "trailingPunctuation": "."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stanzaNumber": 31,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "words": [
+          {
+            "text": "Say",
+            "shouldPronounce": false
+          },
+          {
+            "text": "inveigh",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "neigh",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "but",
+            "shouldPronounce": false
+          },
+          {
+            "text": "inveigle",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 2,
+        "words": [
+          {
+            "text": "Make",
+            "shouldPronounce": false
+          },
+          {
+            "text": "the",
+            "shouldPronounce": false
+          },
+          {
+            "text": "latter",
+            "shouldPronounce": false
+          },
+          {
+            "text": "rhyme",
+            "shouldPronounce": false
+          },
+          {
+            "text": "with",
+            "shouldPronounce": false
+          },
+          {
+            "text": "eagle",
+            "shouldPronounce": true,
+            "trailingPunctuation": "."
+          }
+        ]
+      },
+      {
+        "lineNumber": 3,
+        "words": [
+          {
+            "text": "Mind",
+            "shouldPronounce": true,
+            "trailingPunctuation": "!"
+          },
+          {
+            "text": "Meandering",
+            "shouldPronounce": true
+          },
+          {
+            "text": "but",
+            "shouldPronounce": false
+          },
+          {
+            "text": "mean",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 4,
+        "words": [
+          {
+            "text": "Valentine",
+            "shouldPronounce": true
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "magazine",
+            "shouldPronounce": true,
+            "trailingPunctuation": "."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stanzaNumber": 32,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "words": [
+          {
+            "text": "And",
+            "shouldPronounce": false
+          },
+          {
+            "text": "I",
+            "shouldPronounce": false
+          },
+          {
+            "text": "bet",
+            "shouldPronounce": false
+          },
+          {
+            "text": "you",
+            "shouldPronounce": false,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "dear",
+            "shouldPronounce": false,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "a",
+            "shouldPronounce": false
+          },
+          {
+            "text": "penny",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 2,
+        "words": [
+          {
+            "text": "You",
+            "shouldPronounce": false
+          },
+          {
+            "text": "say",
+            "shouldPronounce": false
+          },
+          {
+            "text": "mani-(fold)",
+            "shouldPronounce": true,
+            "phoneticOverride": "manifold",
+            "linkTextOverride": "manifold"
+          },
+          {
+            "text": "like",
+            "shouldPronounce": false
+          },
+          {
+            "text": "many",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 3,
+        "words": [
+          {
+            "text": "Which",
+            "shouldPronounce": false
+          },
+          {
+            "text": "is",
+            "shouldPronounce": false
+          },
+          {
+            "text": "wrong",
+            "shouldPronounce": false,
+            "trailingPunctuation": "."
+          },
+          {
+            "text": "Say",
+            "shouldPronounce": false
+          },
+          {
+            "text": "rapier",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "pier",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 4,
+        "words": [
+          {
+            "text": "Tier",
+            "shouldPronounce": true,
+            "phoneticOverride": "tire"
+          },
+          {
+            "text": "one",
+            "shouldPronounce": false,
+            "leadingPunctuation": "("
+          },
+          {
+            "text": "who",
+            "shouldPronounce": false
+          },
+          {
+            "text": "ties",
+            "shouldPronounce": false,
+            "trailingPunctuation": ")"
+          },
+          {
+            "text": "but",
+            "shouldPronounce": false
+          },
+          {
+            "text": "tier",
+            "shouldPronounce": true,
+            "trailingPunctuation": "."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stanzaNumber": 33,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "words": [
+          {
+            "text": "Arch",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "archangel",
+            "shouldPronounce": true,
+            "trailingPunctuation": ";"
+          },
+          {
+            "text": "pray",
+            "shouldPronounce": false,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "does",
+            "shouldPronounce": false
+          },
+          {
+            "text": "erring",
+            "shouldPronounce": true,
+            "phoneticOverride": "airing"
+          }
+        ]
+      },
+      {
+        "lineNumber": 2,
+        "words": [
+          {
+            "text": "Rhyme",
+            "shouldPronounce": false
+          },
+          {
+            "text": "with",
+            "shouldPronounce": false
+          },
+          {
+            "text": "herring",
+            "shouldPronounce": true
+          },
+          {
+            "text": "or",
+            "shouldPronounce": false
+          },
+          {
+            "text": "with",
+            "shouldPronounce": false
+          },
+          {
+            "text": "stirring",
+            "shouldPronounce": true,
+            "trailingPunctuation": "?"
+          }
+        ]
+      },
+      {
+        "lineNumber": 3,
+        "words": [
+          {
+            "text": "Prison",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "bison",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "treasure trove",
+            "shouldPronounce": true
+          }
+        ]
+      },
+      {
+        "lineNumber": 4,
+        "words": [
+          {
+            "text": "Treason",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "hover",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "cover",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "cove",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stanzaNumber": 34,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "words": [
+          {
+            "text": "Perseverance",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "severance",
+            "shouldPronounce": true,
+            "trailingPunctuation": "."
+          },
+          {
+            "text": "Ribald",
+            "shouldPronounce": true
+          }
+        ]
+      },
+      {
+        "lineNumber": 2,
+        "words": [
+          {
+            "text": "Rhymes",
+            "shouldPronounce": false
+          },
+          {
+            "text": "but",
+            "shouldPronounce": false,
+            "leadingPunctuation": "("
+          },
+          {
+            "text": "piebald",
+            "shouldPronounce": true
+          },
+          {
+            "text": "doesn't",
+            "shouldPronounce": false,
+            "trailingPunctuation": ")"
+          },
+          {
+            "text": "with",
+            "shouldPronounce": false
+          },
+          {
+            "text": "nibbled",
+            "shouldPronounce": true,
+            "trailingPunctuation": "."
+          }
+        ]
+      },
+      {
+        "lineNumber": 3,
+        "words": [
+          {
+            "text": "Phaeton",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "paean",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "gnat",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "ghat",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "gnaw",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 4,
+        "words": [
+          {
+            "text": "Lien",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "psychic",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "shone",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "bone",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "pshaw",
+            "shouldPronounce": true,
+            "phoneticOverride": "shaw",
+            "trailingPunctuation": "."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stanzaNumber": 35,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "words": [
+          {
+            "text": "Don't",
+            "shouldPronounce": false
+          },
+          {
+            "text": "be",
+            "shouldPronounce": false
+          },
+          {
+            "text": "down",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "my",
+            "shouldPronounce": false
+          },
+          {
+            "text": "own",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "but",
+            "shouldPronounce": false
+          },
+          {
+            "text": "rough",
+            "shouldPronounce": true
+          },
+          {
+            "text": "it",
+            "shouldPronounce": false,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 2,
+        "words": [
+          {
+            "text": "And",
+            "shouldPronounce": false
+          },
+          {
+            "text": "distinguish",
+            "shouldPronounce": false
+          },
+          {
+            "text": "buffet",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "buffet",
+            "shouldPronounce": true,
+            "phoneticOverride": "buffit",
+            "trailingPunctuation": ";"
+          }
+        ]
+      },
+      {
+        "lineNumber": 3,
+        "words": [
+          {
+            "text": "Brood",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "stood",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "roof",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "rook",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "school",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "wool",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "boon",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 4,
+        "words": [
+          {
+            "text": "Worcester",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "Boleyn",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "to",
+            "shouldPronounce": false
+          },
+          {
+            "text": "impugn",
+            "shouldPronounce": true,
+            "trailingPunctuation": "."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stanzaNumber": 36,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "words": [
+          {
+            "text": "Say",
+            "shouldPronounce": false
+          },
+          {
+            "text": "in",
+            "shouldPronounce": false
+          },
+          {
+            "text": "sounds",
+            "shouldPronounce": false
+          },
+          {
+            "text": "correct",
+            "shouldPronounce": false
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "sterling",
+            "shouldPronounce": true
+          }
+        ]
+      },
+      {
+        "lineNumber": 2,
+        "words": [
+          {
+            "text": "Hearse",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "hear",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "hearken",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "year",
+            "shouldPronounce": true
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "yearling",
+            "shouldPronounce": true,
+            "trailingPunctuation": "."
+          }
+        ]
+      },
+      {
+        "lineNumber": 3,
+        "words": [
+          {
+            "text": "Evil",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "devil",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "mezzotint",
+            "shouldPronounce": true,
+            "phoneticOverride": "metsotint",
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 4,
+        "words": [
+          {
+            "text": "Mind",
+            "shouldPronounce": false
+          },
+          {
+            "text": "the",
+            "shouldPronounce": false
+          },
+          {
+            "text": "z",
+            "shouldPronounce": false,
+            "phoneticOverride": "zee",
+            "trailingPunctuation": "!",
+            "standaloneLetter": true
+          },
+          {
+            "text": "A",
+            "shouldPronounce": false,
+            "phoneticOverride": "uh",
+            "leadingPunctuation": "("
+          },
+          {
+            "text": "gentle",
+            "shouldPronounce": false
+          },
+          {
+            "text": "hint",
+            "shouldPronounce": false,
+            "trailingPunctuation": ")."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stanzaNumber": 37,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "words": [
+          {
+            "text": "Now",
+            "shouldPronounce": false
+          },
+          {
+            "text": "you",
+            "shouldPronounce": false
+          },
+          {
+            "text": "need",
+            "shouldPronounce": false
+          },
+          {
+            "text": "not",
+            "shouldPronounce": false
+          },
+          {
+            "text": "pay",
+            "shouldPronounce": false
+          },
+          {
+            "text": "attention",
+            "shouldPronounce": false
+          }
+        ]
+      },
+      {
+        "lineNumber": 2,
+        "words": [
+          {
+            "text": "To",
+            "shouldPronounce": false
+          },
+          {
+            "text": "such",
+            "shouldPronounce": false
+          },
+          {
+            "text": "sounds",
+            "shouldPronounce": false
+          },
+          {
+            "text": "as",
+            "shouldPronounce": false
+          },
+          {
+            "text": "I",
+            "shouldPronounce": false
+          },
+          {
+            "text": "don't",
+            "shouldPronounce": false
+          },
+          {
+            "text": "mention",
+            "shouldPronounce": false,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 3,
+        "words": [
+          {
+            "text": "Sounds",
+            "shouldPronounce": false
+          },
+          {
+            "text": "like",
+            "shouldPronounce": false
+          },
+          {
+            "text": "pores",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "pause",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "pours",
+            "shouldPronounce": true
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "paws",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 4,
+        "words": [
+          {
+            "text": "Rhyming",
+            "shouldPronounce": false
+          },
+          {
+            "text": "with",
+            "shouldPronounce": false
+          },
+          {
+            "text": "the",
+            "shouldPronounce": false
+          },
+          {
+            "text": "pronoun",
+            "shouldPronounce": false
+          },
+          {
+            "text": "yours",
+            "shouldPronounce": true,
+            "trailingPunctuation": ";"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stanzaNumber": 38,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "words": [
+          {
+            "text": "Nor",
+            "shouldPronounce": false
+          },
+          {
+            "text": "are",
+            "shouldPronounce": false
+          },
+          {
+            "text": "proper",
+            "shouldPronounce": false
+          },
+          {
+            "text": "names",
+            "shouldPronounce": false
+          },
+          {
+            "text": "included",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 2,
+        "words": [
+          {
+            "text": "Though",
+            "shouldPronounce": false,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "I",
+            "shouldPronounce": false
+          },
+          {
+            "text": "often",
+            "shouldPronounce": false
+          },
+          {
+            "text": "heard",
+            "shouldPronounce": false,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "as",
+            "shouldPronounce": false
+          },
+          {
+            "text": "you",
+            "shouldPronounce": false
+          },
+          {
+            "text": "did",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 3,
+        "words": [
+          {
+            "text": "Funny",
+            "shouldPronounce": false
+          },
+          {
+            "text": "rhymes",
+            "shouldPronounce": false
+          },
+          {
+            "text": "to",
+            "shouldPronounce": false
+          },
+          {
+            "text": "unicorn",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 4,
+        "words": [
+          {
+            "text": "Yes",
+            "shouldPronounce": false,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "you",
+            "shouldPronounce": false
+          },
+          {
+            "text": "know",
+            "shouldPronounce": false
+          },
+          {
+            "text": "them",
+            "shouldPronounce": false,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "Vaughan",
+            "shouldPronounce": true
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "Strachan",
+            "shouldPronounce": true,
+            "trailingPunctuation": "."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stanzaNumber": 39,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "words": [
+          {
+            "text": "No",
+            "shouldPronounce": false,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "my",
+            "shouldPronounce": false
+          },
+          {
+            "text": "maiden",
+            "shouldPronounce": false,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "coy",
+            "shouldPronounce": false
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "comely",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 2,
+        "words": [
+          {
+            "text": "I",
+            "shouldPronounce": false
+          },
+          {
+            "text": "don't",
+            "shouldPronounce": false
+          },
+          {
+            "text": "want",
+            "shouldPronounce": false,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "to",
+            "shouldPronounce": false
+          },
+          {
+            "text": "speak",
+            "shouldPronounce": false,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "of",
+            "shouldPronounce": false
+          },
+          {
+            "text": "Cholmondeley",
+            "shouldPronounce": true,
+            "trailingPunctuation": "."
+          }
+        ]
+      },
+      {
+        "lineNumber": 3,
+        "words": [
+          {
+            "text": "No",
+            "shouldPronounce": false,
+            "trailingPunctuation": "."
+          },
+          {
+            "text": "Yet",
+            "shouldPronounce": false
+          },
+          {
+            "text": "Froude",
+            "shouldPronounce": true,
+            "phoneticOverride": "frood"
+          },
+          {
+            "text": "compared",
+            "shouldPronounce": false
+          },
+          {
+            "text": "with",
+            "shouldPronounce": false
+          },
+          {
+            "text": "proud",
+            "shouldPronounce": true
+          }
+        ]
+      },
+      {
+        "lineNumber": 4,
+        "words": [
+          {
+            "text": "Is",
+            "shouldPronounce": false
+          },
+          {
+            "text": "no",
+            "shouldPronounce": false
+          },
+          {
+            "text": "better",
+            "shouldPronounce": false
+          },
+          {
+            "text": "than",
+            "shouldPronounce": false
+          },
+          {
+            "text": "McLeod",
+            "shouldPronounce": true,
+            "trailingPunctuation": "."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stanzaNumber": 40,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "words": [
+          {
+            "text": "But",
+            "shouldPronounce": false
+          },
+          {
+            "text": "mind",
+            "shouldPronounce": false
+          },
+          {
+            "text": "trivial",
+            "shouldPronounce": true
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "vial",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 2,
+        "words": [
+          {
+            "text": "Tripod",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "menial",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "denial",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 3,
+        "words": [
+          {
+            "text": "Troll",
+            "shouldPronounce": true
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "trolley",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "realm",
+            "shouldPronounce": true
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "ream",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 4,
+        "words": [
+          {
+            "text": "Schedule",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "mischief",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "schism",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "scheme",
+            "shouldPronounce": true,
+            "trailingPunctuation": "."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stanzaNumber": 41,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "words": [
+          {
+            "text": "Argil",
+            "shouldPronounce": true,
+            "phoneticOverride": "arjil",
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "gill",
+            "shouldPronounce": true,
+            "phoneticOverride": "jil",
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "argyll",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "gill",
+            "shouldPronounce": true,
+            "trailingPunctuation": "."
+          },
+          {
+            "text": "Surely",
+            "shouldPronounce": true
+          }
+        ]
+      },
+      {
+        "lineNumber": 2,
+        "words": [
+          {
+            "text": "May",
+            "shouldPronounce": false
+          },
+          {
+            "text": "be",
+            "shouldPronounce": false
+          },
+          {
+            "text": "made",
+            "shouldPronounce": false
+          },
+          {
+            "text": "to",
+            "shouldPronounce": false
+          },
+          {
+            "text": "rhyme",
+            "shouldPronounce": false
+          },
+          {
+            "text": "with",
+            "shouldPronounce": false
+          },
+          {
+            "text": "Raleigh",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 3,
+        "words": [
+          {
+            "text": "But",
+            "shouldPronounce": false
+          },
+          {
+            "text": "you're",
+            "shouldPronounce": false
+          },
+          {
+            "text": "not",
+            "shouldPronounce": false
+          },
+          {
+            "text": "supposed",
+            "shouldPronounce": false
+          },
+          {
+            "text": "to",
+            "shouldPronounce": false
+          },
+          {
+            "text": "say",
+            "shouldPronounce": false
+          }
+        ]
+      },
+      {
+        "lineNumber": 4,
+        "words": [
+          {
+            "text": "Piquet",
+            "shouldPronounce": true,
+            "phonemicRespelling": "pi-ˈkā"
+          },
+          {
+            "text": "rhymes",
+            "shouldPronounce": false
+          },
+          {
+            "text": "with",
+            "shouldPronounce": false
+          },
+          {
+            "text": "sobriquet",
+            "shouldPronounce": true,
+            "trailingPunctuation": "."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stanzaNumber": 42,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "words": [
+          {
+            "text": "Had",
+            "shouldPronounce": false
+          },
+          {
+            "text": "this",
+            "shouldPronounce": false
+          },
+          {
+            "text": "invalid",
+            "shouldPronounce": true,
+            "phonemicRespelling": "ˈin-və-ləd"
+          },
+          {
+            "text": "invalid",
+            "shouldPronounce": true
+          }
+        ]
+      },
+      {
+        "lineNumber": 2,
+        "words": [
+          {
+            "text": "Worthless",
+            "shouldPronounce": false
+          },
+          {
+            "text": "documents",
+            "shouldPronounce": false,
+            "trailingPunctuation": "?"
+          },
+          {
+            "text": "How",
+            "shouldPronounce": false
+          },
+          {
+            "text": "pallid",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 3,
+        "words": [
+          {
+            "text": "How",
+            "shouldPronounce": false
+          },
+          {
+            "text": "uncouth",
+            "shouldPronounce": true
+          },
+          {
+            "text": "he",
+            "shouldPronounce": false,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "couchant",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "looked",
+            "shouldPronounce": false,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 4,
+        "words": [
+          {
+            "text": "When",
+            "shouldPronounce": false
+          },
+          {
+            "text": "for",
+            "shouldPronounce": false
+          },
+          {
+            "text": "Portsmouth",
+            "shouldPronounce": true
+          },
+          {
+            "text": "I",
+            "shouldPronounce": false
+          },
+          {
+            "text": "had",
+            "shouldPronounce": false
+          },
+          {
+            "text": "booked",
+            "shouldPronounce": false,
+            "trailingPunctuation": "!"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stanzaNumber": 43,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "words": [
+          {
+            "text": "Zeus",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "Thebes",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "Thales",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "Aphrodite",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 2,
+        "words": [
+          {
+            "text": "Paramour",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "enamoured",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "flighty",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 3,
+        "words": [
+          {
+            "text": "Episodes",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "antipodes",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 4,
+        "words": [
+          {
+            "text": "Acquiesce",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "obsequies",
+            "shouldPronounce": true,
+            "trailingPunctuation": "."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stanzaNumber": 44,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "words": [
+          {
+            "text": "Please",
+            "shouldPronounce": false
+          },
+          {
+            "text": "don't",
+            "shouldPronounce": false
+          },
+          {
+            "text": "monkey",
+            "shouldPronounce": false,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "with",
+            "shouldPronounce": false
+          },
+          {
+            "text": "the",
+            "shouldPronounce": false
+          },
+          {
+            "text": "geyser",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 2,
+        "words": [
+          {
+            "text": "Don't",
+            "shouldPronounce": false
+          },
+          {
+            "text": "peel",
+            "shouldPronounce": false
+          },
+          {
+            "text": "taters",
+            "shouldPronounce": false,
+            "leadingPunctuation": "'"
+          },
+          {
+            "text": "with",
+            "shouldPronounce": false
+          },
+          {
+            "text": "my",
+            "shouldPronounce": false
+          },
+          {
+            "text": "razor",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 3,
+        "words": [
+          {
+            "text": "Rather",
+            "shouldPronounce": false,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "say",
+            "shouldPronounce": false
+          },
+          {
+            "text": "in",
+            "shouldPronounce": false
+          },
+          {
+            "text": "accents",
+            "shouldPronounce": false
+          },
+          {
+            "text": "pure",
+            "shouldPronounce": false,
+            "trailingPunctuation": ":"
+          }
+        ]
+      },
+      {
+        "lineNumber": 4,
+        "words": [
+          {
+            "text": "Nature",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "stature",
+            "shouldPronounce": true
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "mature",
+            "shouldPronounce": true,
+            "trailingPunctuation": "."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stanzaNumber": 45,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "words": [
+          {
+            "text": "Pious",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "impious",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "limb",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "climb",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "glumly",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 2,
+        "words": [
+          {
+            "text": "Worsted",
+            "shouldPronounce": true,
+            "trailingPunctuation": ",",
+            "phonemicRespelling": "ˈwu̇-stəd"
+          },
+          {
+            "text": "worsted",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "crumbly",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "dumbly",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 3,
+        "words": [
+          {
+            "text": "Conquer",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "conquest",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "vase",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "phase",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "fan",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 4,
+        "words": [
+          {
+            "text": "Wan",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "sedan",
+            "shouldPronounce": true
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "artisan",
+            "shouldPronounce": true,
+            "trailingPunctuation": "."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stanzaNumber": 46,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "words": [
+          {
+            "text": "The",
+            "shouldPronounce": false
+          },
+          {
+            "text": "th",
+            "shouldPronounce": true,
+            "phoneticOverride": "tee-aych",
+            "standaloneLetter": true
+          },
+          {
+            "text": "will",
+            "shouldPronounce": false
+          },
+          {
+            "text": "surely",
+            "shouldPronounce": false
+          },
+          {
+            "text": "trouble you",
+            "shouldPronounce": true,
+            "linkTextOverride": "trouble"
+          }
+        ]
+      },
+      {
+        "lineNumber": 2,
+        "words": [
+          {
+            "text": "More",
+            "shouldPronounce": false
+          },
+          {
+            "text": "than",
+            "shouldPronounce": false
+          },
+          {
+            "text": "r",
+            "shouldPronounce": true,
+            "trailingPunctuation": ",",
+            "phoneticOverride": "are",
+            "standaloneLetter": true
+          },
+          {
+            "text": "ch",
+            "shouldPronounce": true,
+            "trailingPunctuation": ",",
+            "phoneticOverride": "see-aych",
+            "standaloneLetter": true
+          },
+          {
+            "text": "or",
+            "shouldPronounce": false
+          },
+          {
+            "text": "w",
+            "shouldPronounce": true,
+            "phoneticOverride": "double you",
+            "trailingPunctuation": ".",
+            "standaloneLetter": true
+          }
+        ]
+      },
+      {
+        "lineNumber": 3,
+        "words": [
+          {
+            "text": "Say",
+            "shouldPronounce": false
+          },
+          {
+            "text": "then",
+            "shouldPronounce": false
+          },
+          {
+            "text": "these",
+            "shouldPronounce": false
+          },
+          {
+            "text": "phonetic",
+            "shouldPronounce": false
+          },
+          {
+            "text": "gems",
+            "shouldPronounce": true,
+            "trailingPunctuation": ":"
+          }
+        ]
+      },
+      {
+        "lineNumber": 4,
+        "words": [
+          {
+            "text": "Thomas",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "thyme",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "Theresa",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "Thames",
+            "shouldPronounce": true,
+            "trailingPunctuation": "."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stanzaNumber": 47,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "words": [
+          {
+            "text": "Thompson",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "Chatham",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "Waltham",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "Streatham",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 2,
+        "words": [
+          {
+            "text": "There",
+            "shouldPronounce": false
+          },
+          {
+            "text": "are",
+            "shouldPronounce": false
+          },
+          {
+            "text": "more",
+            "shouldPronounce": false
+          },
+          {
+            "text": "but",
+            "shouldPronounce": false
+          },
+          {
+            "text": "I",
+            "shouldPronounce": false
+          },
+          {
+            "text": "forget 'em",
+            "shouldPronounce": true,
+            "trailingPronuncation": "-",
+            "phoneticOverride": "forgettem",
+            "linkTextOverride": "forget"
+          }
+        ]
+      },
+      {
+        "lineNumber": 3,
+        "words": [
+          {
+            "text": "Wait",
+            "shouldPronounce": false,
+            "trailingPunctuation": "!"
+          },
+          {
+            "text": "I've",
+            "shouldPronounce": false
+          },
+          {
+            "text": "got",
+            "shouldPronounce": false
+          },
+          {
+            "text": "it",
+            "shouldPronounce": false,
+            "trailingPunctuation": ":"
+          },
+          {
+            "text": "Anthony",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 4,
+        "words": [
+          {
+            "text": "Lighten",
+            "shouldPronounce": false
+          },
+          {
+            "text": "your",
+            "shouldPronounce": false
+          },
+          {
+            "text": "anxiety",
+            "shouldPronounce": false,
+            "trailingPunctuation": "."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stanzaNumber": 48,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "words": [
+          {
+            "text": "The",
+            "shouldPronounce": false
+          },
+          {
+            "text": "archaic",
+            "shouldPronounce": false
+          },
+          {
+            "text": "word",
+            "shouldPronounce": false
+          },
+          {
+            "text": "albeit",
+            "shouldPronounce": true
+          }
+        ]
+      },
+      {
+        "lineNumber": 2,
+        "words": [
+          {
+            "text": "Does",
+            "shouldPronounce": false
+          },
+          {
+            "text": "not",
+            "shouldPronounce": false
+          },
+          {
+            "text": "rhyme",
+            "shouldPronounce": false
+          },
+          {
+            "text": "with",
+            "shouldPronounce": false
+          },
+          {
+            "text": "eight",
+            "shouldPronounce": true,
+            "noSpace": true,
+            "trailingPunctuation": "-"
+          },
+          {
+            "text": "you",
+            "shouldPronounce": false
+          },
+          {
+            "text": "see it",
+            "shouldPronounce": true,
+            "trailingPunctuation": ";",
+            "linkTextOverride": "see"
+          }
+        ]
+      },
+      {
+        "lineNumber": 3,
+        "words": [
+          {
+            "text": "With",
+            "shouldPronounce": true
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "forthwith",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "one",
+            "shouldPronounce": false
+          },
+          {
+            "text": "has",
+            "shouldPronounce": false
+          },
+          {
+            "text": "voice",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 4,
+        "words": [
+          {
+            "text": "One",
+            "shouldPronounce": false,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "has",
+            "shouldPronounce": false
+          },
+          {
+            "text": "not",
+            "shouldPronounce": false,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "you",
+            "shouldPronounce": false
+          },
+          {
+            "text": "make",
+            "shouldPronounce": false
+          },
+          {
+            "text": "your",
+            "shouldPronounce": false
+          },
+          {
+            "text": "choice",
+            "shouldPronounce": true,
+            "trailingPunctuation": "."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stanzaNumber": 49,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "words": [
+          {
+            "text": "Shoes",
+            "shouldPronounce": true
+          },
+          {
+            "text": "goes",
+            "shouldPronounce": true
+          },
+          {
+            "text": "does",
+            "shouldPronounce": true
+          },
+          {
+            "text": "*",
+            "shouldPronounce": false,
+            "trailingPronuncation": "."
+          },
+          {
+            "text": "Now",
+            "shouldPronounce": false
+          },
+          {
+            "text": "first",
+            "shouldPronounce": false
+          },
+          {
+            "text": "say",
+            "shouldPronounce": false,
+            "trailingPunctuation": ":"
+          },
+          {
+            "text": "finger",
+            "shouldPronounce": true,
+            "trailingPunctuation": ";"
+          }
+        ]
+      },
+      {
+        "lineNumber": 2,
+        "words": [
+          {
+            "text": "Then",
+            "shouldPronounce": false
+          },
+          {
+            "text": "say",
+            "shouldPronounce": false,
+            "trailingPunctuation": ":"
+          },
+          {
+            "text": "singer",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "ginger",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "linger",
+            "shouldPronounce": true,
+            "trailingPunctuation": "."
+          }
+        ]
+      },
+      {
+        "lineNumber": 3,
+        "words": [
+          {
+            "text": "Real",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "zeal",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "mauve",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "gauze",
+            "shouldPronounce": true
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "gauge",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 4,
+        "words": [
+          {
+            "text": "Marriage",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "foliage",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "mirage",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "age",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stanzaNumber": 50,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "words": [
+          {
+            "text": "Hero",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "heron",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "query",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "very",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 2,
+        "words": [
+          {
+            "text": "Parry",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "tarry",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "fury",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "bury",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 3,
+        "words": [
+          {
+            "text": "Dost",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "lost",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "post",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "doth",
+            "shouldPronounce": true,
+            "phoneticOverride": "duth",
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "cloth",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "loth",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 4,
+        "words": [
+          {
+            "text": "Job",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "Job",
+            "shouldPronounce": true,
+            "phoneticOverride": "jobe",
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "blossom",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "bosom",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "oath",
+            "shouldPronounce": true,
+            "trailingPunctuation": "."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stanzaNumber": 51,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "words": [
+          {
+            "text": "Faugh",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "oppugnant",
+            "shouldPronounce": true,
+            "phoneticOverride": "uh pugnant",
+            "trailingPunctuation": ",",
+            "phonemicRespelling": "/əˈpəɡnənt/"
+          },
+          {
+            "text": "keen",
+            "shouldPronounce": false
+          },
+          {
+            "text": "oppugners",
+            "shouldPronounce": true,
+            "phoneticOverride": "uh puners",
+            "trailingPunctuation": ",",
+            "phonemicRespelling": "ə-ˈpyü-nərz"
+          }
+        ]
+      },
+      {
+        "lineNumber": 2,
+        "words": [
+          {
+            "text": "Bowing",
+            "shouldPronounce": true,
+            "phoneticOverride": "boeing",
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "bowing",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "banjo",
+            "shouldPronounce": false,
+            "noSpace": true,
+            "trailingPunctuation": "-"
+          },
+          {
+            "text": "tuners",
+            "shouldPronounce": true
+          }
+        ]
+      },
+      {
+        "lineNumber": 3,
+        "words": [
+          {
+            "text": "Holm",
+            "shouldPronounce": true
+          },
+          {
+            "text": "you",
+            "shouldPronounce": false
+          },
+          {
+            "text": "know",
+            "shouldPronounce": false,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "but",
+            "shouldPronounce": false
+          },
+          {
+            "text": "noes",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "canoes",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 4,
+        "words": [
+          {
+            "text": "Puisne",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "truism",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "use",
+            "shouldPronounce": true,
+            "phoneticOverride": "yuce",
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "to",
+            "shouldPronounce": false
+          },
+          {
+            "text": "use",
+            "shouldPronounce": true,
+            "phoneticOverride": "yooze",
+            "trailingPunctuation": "?"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stanzaNumber": 52,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "words": [
+          {
+            "text": "Though",
+            "shouldPronounce": false,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "the",
+            "shouldPronounce": false
+          },
+          {
+            "text": "difference",
+            "shouldPronounce": false
+          },
+          {
+            "text": "seems",
+            "shouldPronounce": false
+          },
+          {
+            "text": "little",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 2,
+        "words": [
+          {
+            "text": "We",
+            "shouldPronounce": false
+          },
+          {
+            "text": "say",
+            "shouldPronounce": false
+          },
+          {
+            "text": "actual",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "but",
+            "shouldPronounce": false
+          },
+          {
+            "text": "victual",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 3,
+        "words": [
+          {
+            "text": "Seat",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "sweat",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "chaste",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "caste",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "Leigh",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "eight",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "height",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 4,
+        "words": [
+          {
+            "text": "Put",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "nut",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "granite",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "unite",
+            "shouldPronounce": true,
+            "trailingPunctuation": "."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stanzaNumber": 53,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "words": [
+          {
+            "text": "Reefer",
+            "shouldPronounce": true
+          },
+          {
+            "text": "does",
+            "shouldPronounce": false
+          },
+          {
+            "text": "not",
+            "shouldPronounce": false
+          },
+          {
+            "text": "rhyme",
+            "shouldPronounce": false
+          },
+          {
+            "text": "with",
+            "shouldPronounce": false
+          },
+          {
+            "text": "deafer",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 2,
+        "words": [
+          {
+            "text": "Feoffer",
+            "shouldPronounce": true,
+            "phoneticOverride": "feffer"
+          },
+          {
+            "text": "does",
+            "shouldPronounce": false,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "zephyr",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "heifer",
+            "shouldPronounce": true,
+            "trailingPunctuation": "."
+          }
+        ]
+      },
+      {
+        "lineNumber": 3,
+        "words": [
+          {
+            "text": "Dull",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "bull",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "Geoffrey",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "George",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "ate",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "late",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 4,
+        "words": [
+          {
+            "text": "Hint",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "pint",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "senate",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "but",
+            "shouldPronounce": false
+          },
+          {
+            "text": "sedate",
+            "shouldPronounce": true,
+            "trailingPunctuation": "."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stanzaNumber": 54,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "words": [
+          {
+            "text": "Gaelic",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "Arabic",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "pacific",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 2,
+        "words": [
+          {
+            "text": "Science",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "conscience",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "scientific",
+            "shouldPronounce": true,
+            "trailingPunctuation": ";"
+          }
+        ]
+      },
+      {
+        "lineNumber": 3,
+        "words": [
+          {
+            "text": "Tour",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "but",
+            "shouldPronounce": false
+          },
+          {
+            "text": "our",
+            "shouldPronounce": true,
+            "phoneticOverride": "hour",
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "dour",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "succour",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "four",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 4,
+        "words": [
+          {
+            "text": "Gas",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "alas",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "Arkansas",
+            "shouldPronounce": true,
+            "trailingPunctuation": "."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stanzaNumber": 55,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "words": [
+          {
+            "text": "Say",
+            "shouldPronounce": false
+          },
+          {
+            "text": "manoeuvre",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "yacht",
+            "shouldPronounce": true
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "vomit",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 2,
+        "words": [
+          {
+            "text": "Next",
+            "shouldPronounce": false
+          },
+          {
+            "text": "omit",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "which",
+            "shouldPronounce": false
+          },
+          {
+            "text": "differs",
+            "shouldPronounce": false
+          },
+          {
+            "text": "from",
+            "shouldPronounce": false
+          },
+          {
+            "text": "it",
+            "shouldPronounce": false
+          }
+        ]
+      },
+      {
+        "lineNumber": 3,
+        "words": [
+          {
+            "text": "Bona fide",
+            "shouldPronounce": true,
+            "phoneticOverride": "bonafide",
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "alibi",
+            "shouldPronounce": true
+          }
+        ]
+      },
+      {
+        "lineNumber": 4,
+        "words": [
+          {
+            "text": "Gyrate",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "dowry",
+            "shouldPronounce": true
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "awry",
+            "shouldPronounce": true,
+            "trailingPunctuation": "."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stanzaNumber": 56,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "words": [
+          {
+            "text": "Sea",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "idea",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "guinea",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "area",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 2,
+        "words": [
+          {
+            "text": "Psalm",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "Maria",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "but",
+            "shouldPronounce": false
+          },
+          {
+            "text": "malaria",
+            "shouldPronounce": true,
+            "trailingPunctuation": "."
+          }
+        ]
+      },
+      {
+        "lineNumber": 3,
+        "words": [
+          {
+            "text": "Youth",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "south",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "southern",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "cleanse",
+            "shouldPronounce": true
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "clean",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 4,
+        "words": [
+          {
+            "text": "Doctrine",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "turpentine",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "marine",
+            "shouldPronounce": true,
+            "trailingPunctuation": "."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stanzaNumber": 57,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "words": [
+          {
+            "text": "Compare",
+            "shouldPronounce": false
+          },
+          {
+            "text": "alien",
+            "shouldPronounce": true
+          },
+          {
+            "text": "with",
+            "shouldPronounce": false
+          },
+          {
+            "text": "Italian",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 2,
+        "words": [
+          {
+            "text": "Dandelion",
+            "shouldPronounce": true
+          },
+          {
+            "text": "with",
+            "shouldPronounce": false
+          },
+          {
+            "text": "battalion",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 3,
+        "words": [
+          {
+            "text": "Rally",
+            "shouldPronounce": true
+          },
+          {
+            "text": "with",
+            "shouldPronounce": false
+          },
+          {
+            "text": "ally",
+            "shouldPronounce": true,
+            "trailingPunctuation": ";"
+          },
+          {
+            "text": "yea",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "ye",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 4,
+        "words": [
+          {
+            "text": "Eye",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "I",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "ay",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "aye",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "whey",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "key",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "quay",
+            "shouldPronounce": true,
+            "trailingPunctuation": "!"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stanzaNumber": 58,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "words": [
+          {
+            "text": "Say",
+            "shouldPronounce": false
+          },
+          {
+            "text": "aver",
+            "shouldPronounce": true,
+            "trailingPunctuation": ",",
+            "phonemicRespelling": "ə-ˈvər"
+          },
+          {
+            "text": "but",
+            "shouldPronounce": false
+          },
+          {
+            "text": "ever",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "fever",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 2,
+        "words": [
+          {
+            "text": "Neither",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "leisure",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "skein",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "receiver",
+            "shouldPronounce": true,
+            "trailingPunctuation": "."
+          }
+        ]
+      },
+      {
+        "lineNumber": 3,
+        "words": [
+          {
+            "text": "Never",
+            "shouldPronounce": false
+          },
+          {
+            "text": "guess",
+            "shouldPronounce": false,
+            "noSpace": "true",
+            "trailingPunctuation": "-"
+          },
+          {
+            "text": "it",
+            "shouldPronounce": false
+          },
+          {
+            "text": "is",
+            "shouldPronounce": false
+          },
+          {
+            "text": "not",
+            "shouldPronounce": false
+          },
+          {
+            "text": "safe",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 4,
+        "words": [
+          {
+            "text": "We",
+            "shouldPronounce": false
+          },
+          {
+            "text": "say",
+            "shouldPronounce": false
+          },
+          {
+            "text": "calves",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "valves",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "half",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "but",
+            "shouldPronounce": false
+          },
+          {
+            "text": "Ralf",
+            "shouldPronounce": true,
+            "trailingPunctuation": "."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stanzaNumber": 59,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "words": [
+          {
+            "text": "Starry",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "granary",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "canary",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 2,
+        "words": [
+          {
+            "text": "Crevice",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "but",
+            "shouldPronounce": false
+          },
+          {
+            "text": "device",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "eyrie",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 3,
+        "words": [
+          {
+            "text": "Face",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "but",
+            "shouldPronounce": false
+          },
+          {
+            "text": "preface",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "then",
+            "shouldPronounce": false
+          },
+          {
+            "text": "grimace",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 4,
+        "words": [
+          {
+            "text": "Phlegm",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "phlegmatic",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "ass",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "glass",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "bass",
+            "shouldPronounce": true,
+            "phoneticOverride": "base",
+            "trailingPunctuation": ",",
+            "phonemicRespelling": "ˈbas"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stanzaNumber": 60,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "words": [
+          {
+            "text": "Bass",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "large",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "target",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "gin",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "give",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "verging",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 2,
+        "words": [
+          {
+            "text": "Ought",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "oust",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "joust",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "scour",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "but",
+            "shouldPronounce": false
+          },
+          {
+            "text": "scourging",
+            "shouldPronounce": true,
+            "trailingPunctuation": ";"
+          }
+        ]
+      },
+      {
+        "lineNumber": 3,
+        "words": [
+          {
+            "text": "Ear",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "but",
+            "shouldPronounce": false
+          },
+          {
+            "text": "earn",
+            "shouldPronounce": true,
+            "trailingPunctuation": ";"
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "ere",
+            "shouldPronounce": true
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "tear",
+            "shouldPronounce": true,
+            "phoneticOverride": "tare"
+          }
+        ]
+      },
+      {
+        "lineNumber": 4,
+        "words": [
+          {
+            "text": "Do",
+            "shouldPronounce": false
+          },
+          {
+            "text": "not",
+            "shouldPronounce": false
+          },
+          {
+            "text": "rhyme",
+            "shouldPronounce": false
+          },
+          {
+            "text": "with",
+            "shouldPronounce": false
+          },
+          {
+            "text": "here",
+            "shouldPronounce": true
+          },
+          {
+            "text": "but",
+            "shouldPronounce": false
+          },
+          {
+            "text": "heir",
+            "shouldPronounce": true,
+            "trailingPunctuation": "."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stanzaNumber": 61,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "words": [
+          {
+            "text": "Mind",
+            "shouldPronounce": false
+          },
+          {
+            "text": "the",
+            "shouldPronounce": false
+          },
+          {
+            "text": "o",
+            "shouldPronounce": false,
+            "standaloneLetter": true
+          },
+          {
+            "text": "of",
+            "shouldPronounce": false
+          },
+          {
+            "text": "off",
+            "shouldPronounce": true
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "often",
+            "shouldPronounce": true
+          }
+        ]
+      },
+      {
+        "lineNumber": 2,
+        "words": [
+          {
+            "text": "Which",
+            "shouldPronounce": false
+          },
+          {
+            "text": "may",
+            "shouldPronounce": false
+          },
+          {
+            "text": "be",
+            "shouldPronounce": false
+          },
+          {
+            "text": "pronounced",
+            "shouldPronounce": false
+          },
+          {
+            "text": "as",
+            "shouldPronounce": false
+          },
+          {
+            "text": "orphan",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 3,
+        "words": [
+          {
+            "text": "With",
+            "shouldPronounce": false
+          },
+          {
+            "text": "the",
+            "shouldPronounce": false
+          },
+          {
+            "text": "sound",
+            "shouldPronounce": false
+          },
+          {
+            "text": "of",
+            "shouldPronounce": false
+          },
+          {
+            "text": "saw",
+            "shouldPronounce": true
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "sauce",
+            "shouldPronounce": true,
+            "trailingPunctuation": ";"
+          }
+        ]
+      },
+      {
+        "lineNumber": 4,
+        "words": [
+          {
+            "text": "Also",
+            "shouldPronounce": false
+          },
+          {
+            "text": "soft",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "lost",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "cloth",
+            "shouldPronounce": true
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "cross",
+            "shouldPronounce": true,
+            "trailingPunctuation": "."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stanzaNumber": 62,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "words": [
+          {
+            "text": "Pudding",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "puddle",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "putting",
+            "shouldPronounce": true,
+            "trailingPunctuation": "."
+          },
+          {
+            "text": "Putting",
+            "shouldPronounce": true,
+            "phoneticOverride": "puhtting",
+            "trailingPunctuation": "?"
+          }
+        ]
+      },
+      {
+        "lineNumber": 2,
+        "words": [
+          {
+            "text": "Yes",
+            "shouldPronounce": false,
+            "trailingPunctuation": ":"
+          },
+          {
+            "text": "at",
+            "shouldPronounce": false
+          },
+          {
+            "text": "golf",
+            "shouldPronounce": false,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "it",
+            "shouldPronounce": false
+          },
+          {
+            "text": "rhymes",
+            "shouldPronounce": false
+          },
+          {
+            "text": "with",
+            "shouldPronounce": false
+          },
+          {
+            "text": "shutting",
+            "shouldPronounce": true,
+            "trailingPunctuation": "."
+          }
+        ]
+      },
+      {
+        "lineNumber": 3,
+        "words": [
+          {
+            "text": "Respite",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "spite",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "consent",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "resent",
+            "shouldPronounce": true,
+            "trailingPunctuation": "."
+          }
+        ]
+      },
+      {
+        "lineNumber": 4,
+        "words": [
+          {
+            "text": "Liable",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "but",
+            "shouldPronounce": false
+          },
+          {
+            "text": "Parliament",
+            "shouldPronounce": true,
+            "trailingPunctuation": "."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stanzaNumber": 63,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "words": [
+          {
+            "text": "Seven",
+            "shouldPronounce": true
+          },
+          {
+            "text": "is",
+            "shouldPronounce": false
+          },
+          {
+            "text": "right",
+            "shouldPronounce": false,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "but",
+            "shouldPronounce": false
+          },
+          {
+            "text": "so",
+            "shouldPronounce": false
+          },
+          {
+            "text": "is",
+            "shouldPronounce": false
+          },
+          {
+            "text": "even",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 2,
+        "words": [
+          {
+            "text": "Hyphen",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "roughen",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "nephew",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "Stephen",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 3,
+        "words": [
+          {
+            "text": "Monkey",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "donkey",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "clerk",
+            "shouldPronounce": true
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "jerk",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 4,
+        "words": [
+          {
+            "text": "Asp",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "grasp",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "wasp",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "demesne",
+            "shouldPronounce": true,
+            "phoneticOverride": "dimane",
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "cork",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "work",
+            "shouldPronounce": true,
+            "trailingPunctuation": "."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stanzaNumber": 64,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "words": [
+          {
+            "text": "A",
+            "shouldPronounce": false,
+            "standaloneLetter": true
+          },
+          {
+            "text": "of",
+            "shouldPronounce": false
+          },
+          {
+            "text": "valour",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "vapid",
+            "shouldPronounce": true
+          },
+          {
+            "text": "vapour",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 2,
+        "words": [
+          {
+            "text": "S",
+            "shouldPronounce": false,
+            "standaloneLetter": true
+          },
+          {
+            "text": "of",
+            "shouldPronounce": false
+          },
+          {
+            "text": "news",
+            "shouldPronounce": true
+          },
+          {
+            "text": "compare",
+            "shouldPronounce": false,
+            "leadingPunctuation": "("
+          },
+          {
+            "text": "newspaper",
+            "shouldPronounce": true,
+            "trailingPunctuation": "),"
+          }
+        ]
+      },
+      {
+        "lineNumber": 3,
+        "words": [
+          {
+            "text": "G",
+            "shouldPronounce": false,
+            "standaloneLetter": true
+          },
+          {
+            "text": "of",
+            "shouldPronounce": false
+          },
+          {
+            "text": "gibbet",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "gibbon",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "gist",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 4,
+        "words": [
+          {
+            "text": "I",
+            "shouldPronounce": false,
+            "standaloneLetter": true
+          },
+          {
+            "text": "of",
+            "shouldPronounce": false
+          },
+          {
+            "text": "antichrist",
+            "shouldPronounce": true
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "grist",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stanzaNumber": 65,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "words": [
+          {
+            "text": "Differ",
+            "shouldPronounce": false
+          },
+          {
+            "text": "like",
+            "shouldPronounce": false
+          },
+          {
+            "text": "diverse",
+            "shouldPronounce": true
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "divers",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 2,
+        "words": [
+          {
+            "text": "Rivers",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "strivers",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "shivers",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "fivers",
+            "shouldPronounce": true,
+            "trailingPunctuation": "."
+          }
+        ]
+      },
+      {
+        "lineNumber": 3,
+        "words": [
+          {
+            "text": "Once",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "but",
+            "shouldPronounce": false
+          },
+          {
+            "text": "nonce",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "toll",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "doll",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "but",
+            "shouldPronounce": false
+          },
+          {
+            "text": "roll",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 4,
+        "words": [
+          {
+            "text": "Polish",
+            "shouldPronounce": true,
+            "phoneticOverride": "pollish",
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "Polish",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "poll",
+            "shouldPronounce": true
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "poll",
+            "shouldPronounce": true,
+            "trailingPunctuation": "."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stanzaNumber": 66,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "words": [
+          {
+            "text": "Pronunciation",
+            "shouldPronounce": false,
+            "noSpace": true,
+            "trailingPunctuation": "-"
+          },
+          {
+            "text": "think",
+            "shouldPronounce": false
+          },
+          {
+            "text": "of",
+            "shouldPronounce": false
+          },
+          {
+            "text": "psyche",
+            "shouldPronounce": true,
+            "trailingPunctuation": "!-"
+          }
+        ]
+      },
+      {
+        "lineNumber": 2,
+        "words": [
+          {
+            "text": "Is",
+            "shouldPronounce": false
+          },
+          {
+            "text": "a",
+            "shouldPronounce": false
+          },
+          {
+            "text": "paling",
+            "shouldPronounce": false,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "stout",
+            "shouldPronounce": false
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "spiky",
+            "shouldPronounce": true,
+            "trailingPunctuation": "."
+          }
+        ]
+      },
+      {
+        "lineNumber": 3,
+        "words": [
+          {
+            "text": "Won't",
+            "shouldPronounce": false
+          },
+          {
+            "text": "it",
+            "shouldPronounce": false
+          },
+          {
+            "text": "make",
+            "shouldPronounce": false
+          },
+          {
+            "text": "you",
+            "shouldPronounce": false
+          },
+          {
+            "text": "lose",
+            "shouldPronounce": false
+          },
+          {
+            "text": "your",
+            "shouldPronounce": false
+          },
+          {
+            "text": "wits",
+            "shouldPronounce": true
+          }
+        ]
+      },
+      {
+        "lineNumber": 4,
+        "words": [
+          {
+            "text": "Writing",
+            "shouldPronounce": false
+          },
+          {
+            "text": "groats",
+            "shouldPronounce": true
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "saying",
+            "shouldPronounce": false
+          },
+          {
+            "text": "grits",
+            "shouldPronounce": true,
+            "leadingPunctuation": "\"",
+            "trailingPunctuation": "\"?"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stanzaNumber": 67,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "words": [
+          {
+            "text": "It's",
+            "shouldPronounce": false
+          },
+          {
+            "text": "a",
+            "shouldPronounce": false
+          },
+          {
+            "text": "dark",
+            "shouldPronounce": false
+          },
+          {
+            "text": "abyss",
+            "shouldPronounce": true
+          },
+          {
+            "text": "or",
+            "shouldPronounce": false
+          },
+          {
+            "text": "tunnel",
+            "shouldPronounce": true
+          }
+        ]
+      },
+      {
+        "lineNumber": 2,
+        "words": [
+          {
+            "text": "Strewn",
+            "shouldPronounce": false
+          },
+          {
+            "text": "with",
+            "shouldPronounce": false
+          },
+          {
+            "text": "stones",
+            "shouldPronounce": false
+          },
+          {
+            "text": "like",
+            "shouldPronounce": false
+          },
+          {
+            "text": "rowlock",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "gunwale",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 3,
+        "words": [
+          {
+            "text": "Islington",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "Isle",
+            "shouldPronounce": true
+          },
+          {
+            "text": "of",
+            "shouldPronounce": false
+          },
+          {
+            "text": "Wight",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 4,
+        "words": [
+          {
+            "text": "Housewife",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "verdict",
+            "shouldPronounce": true
+          },
+          {
+            "text": "and",
+            "shouldPronounce": false
+          },
+          {
+            "text": "indict",
+            "shouldPronounce": true,
+            "trailingPunctuation": "."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stanzaNumber": 68,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "words": [
+          {
+            "text": "Don't",
+            "shouldPronounce": false
+          },
+          {
+            "text": "you",
+            "shouldPronounce": false
+          },
+          {
+            "text": "think",
+            "shouldPronounce": false
+          },
+          {
+            "text": "so",
+            "shouldPronounce": false,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "reader",
+            "shouldPronounce": false,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "rather",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 2,
+        "words": [
+          {
+            "text": "Saying",
+            "shouldPronounce": false
+          },
+          {
+            "text": "lather",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "bather",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "father",
+            "shouldPronounce": true,
+            "trailingPunctuation": "?"
+          }
+        ]
+      },
+      {
+        "lineNumber": 3,
+        "words": [
+          {
+            "text": "Finally",
+            "shouldPronounce": false,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "which",
+            "shouldPronounce": false
+          },
+          {
+            "text": "rhymes",
+            "shouldPronounce": false
+          },
+          {
+            "text": "with",
+            "shouldPronounce": false
+          },
+          {
+            "text": "enough",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          }
+        ]
+      },
+      {
+        "lineNumber": 4,
+        "words": [
+          {
+            "text": "Though",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "through",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "bough",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "cough",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "hough",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "sough",
+            "shouldPronounce": true,
+            "trailingPunctuation": ","
+          },
+          {
+            "text": "tough",
+            "shouldPronounce": true,
+            "trailingPunctuation": "??"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stanzaNumber": 69,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "words": [
+          {
+            "text": "Hiccough",
+            "shouldPronounce": true
+          },
+          {
+            "text": "has",
+            "shouldPronounce": false
+          },
+          {
+            "text": "the",
+            "shouldPronounce": false
+          },
+          {
+            "text": "sound",
+            "shouldPronounce": false
+          },
+          {
+            "text": "of",
+            "shouldPronounce": false
+          },
+          {
+            "text": "sup",
+            "shouldPronounce": true,
+            "trailingPunctuation": "..."
+          }
+        ]
+      },
+      {
+        "lineNumber": 2,
+        "words": [
+          {
+            "text": "My",
+            "shouldPronounce": false
+          },
+          {
+            "text": "advice",
+            "shouldPronounce": false
+          },
+          {
+            "text": "is",
+            "shouldPronounce": false,
+            "trailingPunctuation": ":"
+          },
+          {
+            "text": "GIVE",
+            "shouldPronounce": false
+          },
+          {
+            "text": "IT",
+            "shouldPronounce": false
+          },
+          {
+            "text": "UP",
+            "shouldPronounce": false,
+            "trailingPunctuation": "!"
+          }
+        ]
+      }
+    ]
+  }
+]
